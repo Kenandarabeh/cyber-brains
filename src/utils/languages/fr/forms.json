@@ -1,0 +1,13 @@
+{
+    "Checkout": "vérifier",
+    "Profile": "profil",
+    "Email": "E-mail",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "fullName": "Nom complet",
+    "phoneNumber": "Numéro de téléphone",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "required": "Obligatoire"
+}

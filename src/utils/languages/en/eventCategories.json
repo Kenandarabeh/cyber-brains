@@ -1,0 +1,30 @@
+{
+  "title": "Explore Our Activities",
+  "subtitle": "Discover the diverse range of media activities we offer",
+  "categories": {
+    "photography": {
+      "title": "Photography",
+      "count": "12 Events"
+    },
+    "videoProduction": {
+      "title": "Video Production",
+      "count": "8 Events"
+    },
+    "journalism": {
+      "title": "Journalism",
+      "count": "15 Events"
+    },
+    "broadcasting": {
+      "title": "Broadcasting",
+      "count": "6 Events"
+    },
+    "filmMaking": {
+      "title": "Film Making",
+      "count": "10 Events"
+    },
+    "digitalMedia": {
+      "title": "Digital Media",
+      "count": "9 Events"
+    }
+  }
+}

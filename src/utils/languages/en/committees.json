@@ -1,0 +1,44 @@
+{
+  "title": "Our Specialized Teams",
+  "subtitle": "The Cyber Brains Club at University Center of Naama is organized into specialized teams, each focusing on different aspects of computer science",
+  "description": "Each team is led by experienced student members who coordinate projects and provide mentorship to newer members. Join the team that matches your interests and skills!",
+  "items": [
+    {
+      "title": "Programming Team",
+      "description": "Focused on software development and implementing programming projects using various languages and frameworks.",
+      "icon": "programming",
+      "color": "#3178c6"
+    },
+    {
+      "title": "Database Team",
+      "description": "Oversees the design, development, and management of databases, and implements data storage and query solutions.",
+      "icon": "database",
+      "color": "#f29111"
+    },
+    {
+      "title": "AI Research Team",
+      "description": "Responsible for research and application in AI and machine learning areas, and develops intelligent models and applications.",
+      "icon": "ai",
+      "color": "#41cd52"
+    },
+    {
+      "title": "Web Development Team",
+      "description": "Organizes frontend and backend web development projects, and builds interactive web applications and websites for the club.",
+      "icon": "web",
+      "color": "#61dafb"
+    },
+    {
+      "title": "Cybersecurity Team",
+      "description": "Responsible for assessing and improving data and network security, conducting penetration testing, and developing security protocols.",
+      "icon": "security",
+      "color": "#e53935"
+    },
+    {
+      "title": "Cloud Computing Team",
+      "description": "Manages cloud infrastructure, develops hosting strategies, and implements solutions for cloud services and applications.",
+      "icon": "cloud",
+      "color": "#0078d4"
+    }
+  ],
+  "joinCta": "Join one of our teams"
+}

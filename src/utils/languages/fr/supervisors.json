@@ -1,0 +1,30 @@
+{
+  "title": "Nos Superviseurs",
+  "subtitle": "Orientation Académique & Professionnelle",
+  "description": "Des professeurs distingués qui guident notre parcours en informatique et innovation, offrant expertise et mentorat à nos membres",
+  "badgeText": "Mentors Universitaires",
+  "departmentLabel": "Département",
+  "supervisors": [
+    {
+      "id": 1,
+      "name": "Amine Makhlouf",
+      "role": "Superviseur Académique",
+      "department": "Sous-Direction des Activités Culturelles et Sportives, Centre Universitaire",
+      "bio": "Un professeur et superviseur distingué qui travaille à la Sous-Direction des Activités Culturelles et Sportives au Centre Universitaire. Il soutient les initiatives créatives des étudiants et contribue par son expertise à orienter le club vers ses objectifs éducatifs et médiatiques."
+    },
+    {
+      "id": 2,
+      "name": "Prof. Habib Safi",
+      "role": "Directeur du Centre Universitaire de Naama",
+      "department": "Département des Études Islamiques",
+      "bio": "Directeur du Centre Universitaire de Naama et Professeur en études islamiques. Fournit une orientation stratégique au club et soutient ses initiatives académiques au sein de l'université."
+    },
+    {
+      "id": 3,
+      "name": "Dr. Khalwati Mosaab",
+      "role": "Maître de Conférences",
+      "department": "Faculté de Droit",
+      "bio": "Docteur spécialisé en droit avec une expérience pratique et académique exceptionnelle. Contribue à la gouvernance du club et fournit des perspectives précieuses sur les aspects éthiques et juridiques de l'implémentation technologique."
+    }
+  ]
+}

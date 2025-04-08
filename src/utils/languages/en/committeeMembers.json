@@ -1,0 +1,38 @@
+{
+  "title": "Committee Members",
+  "subtitle": "Our club members work across different committees to create outstanding media content",
+  "committees": [
+    {
+      "name": "Media Production",
+      "members": [
+        { "name": "Ahmed Mohammed", "role": "Photographer", "image": "/images/members/1.jpg" },
+        { "name": "Sarah Khalid", "role": "Video Editor", "image": "/images/members/2.jpg" }
+      ]
+    },
+    {
+      "name": "Content Creation",
+      "members": [
+        { "name": "Mohammed Abdullah", "role": "Content Writer", "image": "/images/members/3.jpg" },
+        { "name": "Noura Saeed", "role": "Proofreader", "image": "/images/members/4.jpg" }
+      ]
+    },
+    {
+      "name": "Social Media",
+      "members": [
+        { "name": "Omar Ali", "role": "Account Manager", "image": "/images/members/5.jpg" }
+      ]
+    },
+    {
+      "name": "Graphics Design",
+      "members": [
+        { "name": "Fatima Ahmed", "role": "Graphic Designer", "image": "/images/members/6.jpg" }
+      ]
+    },
+    {
+      "name": "Public Relations",
+      "members": [
+        { "name": "Khalid Youssef", "role": "Relations Coordinator", "image": "/images/members/7.jpg" }
+      ]
+    }
+  ]
+}

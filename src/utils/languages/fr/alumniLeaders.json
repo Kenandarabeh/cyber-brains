@@ -1,0 +1,47 @@
+{
+  "title": "Personnalités Marquantes",
+  "subtitle": "Pionniers et Innovateurs en Informatique",
+  "description": "Anciens dirigeants qui ont contribué à établir les fondements de Cyber Brains et à définir la voie de ses futures réalisations numériques.",
+  "badgeText": "Anciens de Cyber Brains",
+  "techBadge": "Spécialiste Tech",
+  "skillsLabel": "Compétences",
+  "achievementsLabel": "Réalisations",
+  "leaders": [
+    {
+      "id": 101,
+      "name": "Anes Mohammedi",
+      "role": "Fondateur et Premier Président",
+      "period": "2022",
+      "bio": "Fondateur et premier président du club, il se distingue par sa vision de leadership et son sens aigu de l'organisation. Animateur de haut niveau et activiste communautaire renommé, il a laissé une empreinte claire dans l'établissement de l'identité du club et la définition de sa trajectoire. Il a présidé le club de Naama en 2022 pendant un an avant de passer à la direction de la branche du club à Tlemcen, où il a poursuivi sa mission de diffuser le message du club et d'élargir sa sphère d'influence.",
+      "skills": ["Leadership Créatif", "Planification Stratégique", "Animation Médiatique", "Gestion d'Événements"],
+      "achievements": "Fondation du club et construction de la première structure organisationnelle, lancement d'initiatives médiatiques pionnières, organisation du premier concours médiatique étudiant, expansion du réseau de relations du club avec les institutions locales et les universités"
+    },
+    {
+      "id": 102,
+      "name": "Ayman Lahmar",
+      "role": "Président Actuel",
+      "period": "2024 - Présent",
+      "bio": "Actuel président du club et l'un de ses premiers fondateurs, il combine compétences en leadership et créativité. Designer graphique professionnel et photographe distingué, il a clairement contribué au développement de l'identité visuelle du club. Il a supervisé l'organisation de nombreux événements visuels innovants et ateliers de formation en photographie et design. Il cherche constamment à intégrer les technologies modernes dans les activités du club et à développer les compétences des membres dans les domaines créatifs.",
+      "skills": ["Design Graphique Professionnel", "Photographie", "Gestion de Projets Créatifs", "Leadership Motivationnel"],
+      "achievements": "Développement de l'identité visuelle complète du club, création de contenu visuel de haute qualité, organisation d'expositions photographiques distinctives, création d'une équipe spécialisée en production visuelle, lancement des plateformes de médias sociaux du club avec des designs professionnels"
+    },
+    {
+      "id": 103,
+      "name": "Abdelghani Belhachemi",
+      "role": "Ancien Président et Actuel Responsable d'Administration et d'Organisation",
+      "period": "2023-2024",
+      "bio": "A présidé le club pour la période 2023-2024, et occupe actuellement le poste de responsable d'administration et d'organisation. Activiste communautaire très efficace, poète talentueux, et leader compétent doté d'une vision administrative distinctive. A contribué significativement au développement de la structure organisationnelle du club et à l'établissement d'un système administratif solide. A supervisé l'organisation d'événements culturels et littéraires de haut niveau, et a contribué à consolider l'aspect littéraire et culturel des activités du club. Se distingue par sa capacité exceptionnelle à communiquer et à établir des relations avec diverses institutions.",
+      "skills": ["Gestion Organisationnelle", "Écriture Poétique et Prose", "Gestion d'Événements", "Planification Stratégique", "Coordination Institutionnelle"],
+      "achievements": "Développement de la structure organisationnelle et administrative du club, lancement de l'initiative des soirées de poésie, organisation du forum des médias et de la littérature, établissement de partenariats stratégiques avec des institutions culturelles, création d'un système de documentation pour les activités du club"
+    },
+    {
+      "id": 104,
+      "name": "Ben Youcef Kamel",
+      "role": "Ancien Président",
+      "period": "2023",
+      "bio": "A occupé le poste de deuxième président du club au cours de l'année 2023 et a laissé une marque claire dans le développement du club pendant sa période de leadership. Animateur distingué et chanteur à la voix exceptionnelle, il a combiné compétences artistiques et administratives. A introduit la dimension artistique et vocale dans les activités du club et a renforcé l'intérêt pour les talents vocaux des étudiants. A participé à de nombreux concours au niveau national et réalisé des accomplissements honorables au nom du club et de l'université. Sa période s'est caractérisée par l'accent mis sur la découverte et le développement des talents étudiants dans divers domaines artistiques.",
+      "skills": ["Chant et Performance Vocale", "Organisation de Concours Artistiques", "Leadership Inspirant", "Découverte de Talents", "Animation Médiatique"],
+      "achievements": "Victoire à la première place du concours de chant distingué dans la wilaya d'Adrar, création de la chorale étudiante du club, organisation du premier forum des talents étudiants, représentation du club et de l'université dans des forums nationaux, lancement de l'initiative 'Ta Voix, Ton Talent' pour découvrir les talents vocaux"
+    }
+  ]
+}

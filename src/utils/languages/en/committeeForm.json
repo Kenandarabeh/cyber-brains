@@ -1,0 +1,100 @@
+{
+  "title": "Join Our Club",
+  "subtitle": "Be part of our exceptional team",
+  "steps": [
+    "Personal Information",
+    "Committee Selection", 
+    "Experience & Motivation"
+  ],
+  "form": {
+    "name": {
+      "label": "Full Name",
+      "error": "Name is required"
+    },
+    "email": {
+      "label": "Email",
+      "error": "Email is required",
+      "invalid": "Invalid email"
+    },
+    "phone": {
+      "label": "Phone Number",
+      "error": "Phone is required"
+    },
+    "committee": {
+      "label": "Select Committee",
+      "error": "Committee selection is required",
+      "options": [
+        {
+          "value": "press",
+          "label": "Press Committee"
+        },
+        {
+          "value": "digital",
+          "label": "Digital Media Committee"
+        },
+        {
+          "value": "relations",
+          "label": "Public Relations Committee"
+        },
+        {
+          "value": "training",
+          "label": "Training and Formation Committee"
+        },
+        {
+          "value": "documentation",
+          "label": "Information Documentation Committee"
+        },
+        {
+          "value": "resources",
+          "label": "Resources Committee"
+        }
+        ]
+    },
+    "experience": {
+      "label": "Previous Experience",
+      "error": "Experience is required"
+    },
+    "motivation": {
+      "label": "Why do you want to join?",
+      "error": "Motivation is required"
+    },
+    "buttons": {
+      "next": "Next",
+      "back": "Back",
+      "submit": "Submit"
+    },
+    "success": "Your application has been submitted successfully!",
+    "error": "An error occurred. Please try again."
+  },
+  "title": "Choose the committee you want to join",
+  "description": "Please select the committee that matches your skills and interests",
+  "committees": [
+    {
+      "value": "press",
+      "label": "Press Committee"
+    },
+    {
+      "value": "digital",
+      "label": "Digital Media Committee"
+    },
+    {
+      "value": "relations",
+      "label": "Public Relations Committee"
+    },
+    {
+      "value": "training",
+      "label": "Training and Formation Committee"
+    },
+    {
+      "value": "documentation",
+      "label": "Information Documentation Committee"
+    },
+    {
+      "value": "resources",
+      "label": "Resources Committee"
+    }
+  ],
+  "placeholder": "Select a committee",
+  "required": "Please select a committee",
+  "multiple": "You can select multiple committees"
+}

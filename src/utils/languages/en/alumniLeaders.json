@@ -1,0 +1,47 @@
+{
+  "title": "Hall of Fame",
+  "subtitle": "Computing Pioneers & Innovators",
+  "description": "Past leaders who contributed to establishing the foundations of Cyber Brains and set the path for its future digital achievements.",
+  "badgeText": "Cyber Brains Alumni",
+  "techBadge": "Tech Specialist",
+  "skillsLabel": "Skills",
+  "achievementsLabel": "Achievements",
+  "leaders": [
+    {
+      "id": 101,
+      "name": "Anes Mohammedi",
+      "role": "Founder and First President",
+      "period": "2022",
+      "bio": "Founder and first president of the club, distinguished by his leadership vision and high organizational sense. A high-level animator and prominent community activist, he left a clear mark in establishing the club's identity and defining its course. He led the Naama club in 2022 for one year before moving to lead the club's branch in Tlemcen, where he continued his mission of spreading the club's message and expanding its sphere of influence.",
+      "skills": ["Creative Leadership", "Strategic Planning", "Media Animation", "Event Management"],
+      "achievements": "Founded the club and built the first organizational structure, launched pioneering media initiatives, organized the first student media competition, expanded the club's network of relationships with local institutions and universities"
+    },
+    {
+      "id": 102,
+      "name": "Ayman Lahmar",
+      "role": "Current President",
+      "period": "2024 - Present",
+      "bio": "Current president of the club and one of its early founders, he combines leadership skills and creativity. A professional graphic designer and distinguished photographer with a clear contribution to developing the club's visual identity. He has supervised the organization of many innovative visual events and training workshops in photography and design. Always seeks to integrate modern technology in the club's activities and develop members' skills in creative fields.",
+      "skills": ["Professional Graphic Design", "Photography", "Creative Project Management", "Motivational Leadership"],
+      "achievements": "Developed the club's complete visual identity, created high-quality visual content, organized distinctive photography exhibitions, established a team specialized in visual production, launched the club's social media platforms with professional designs"
+    },
+    {
+      "id": 103,
+      "name": "Abdelghani Belhachemi",
+      "role": "Former President and Current Administration and Organization Manager",
+      "period": "2023-2024",
+      "bio": "Served as president of the club for the period 2023-2024, and currently holds the position of administration and organization manager. A highly effective community activist, talented poet, and skilled leader with a distinctive administrative vision. Contributed significantly to developing the club's organizational structure and establishing a robust administrative system. Supervised the organization of high-level cultural and literary events, and contributed to consolidating the literary and cultural aspect of the club's activities. Distinguished by his exceptional ability to communicate and build relationships with various institutions.",
+      "skills": ["Organizational Management", "Poetry and Prose Writing", "Event Management", "Strategic Planning", "Institutional Coordination"],
+      "achievements": "Developed the club's organizational and administrative structure, launched the poetry evenings initiative, organized the media and literature forum, built strategic partnerships with cultural institutions, created a documentation system for club activities"
+    },
+    {
+      "id": 104,
+      "name": "Ben Youcef Kamel",
+      "role": "Former President",
+      "period": "2023",
+      "bio": "Held the position of the club's second president during 2023, leaving a clear impact on the club's development during his leadership period. A distinguished animator and singer with an exceptional voice, he combined artistic and administrative skills. Introduced the artistic and vocal dimension to the club's activities and enhanced interest in students' vocal talents. Participated in numerous competitions at the national level and achieved honorable accomplishments in the name of the club and university. His period was characterized by a focus on discovering and developing student talents in various artistic fields.",
+      "skills": ["Singing and Vocal Performance", "Organizing Artistic Competitions", "Inspiring Leadership", "Talent Discovery", "Media Animation"],
+      "achievements": "Won first place in the distinguished singing competition in Adrar wilaya, established the club's student choir, organized the first student talents forum, represented the club and university in national forums, launched the 'Your Voice, Your Talent' initiative to discover vocal talents"
+    }
+  ]
+}

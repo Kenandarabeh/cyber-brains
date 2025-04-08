@@ -1,0 +1,194 @@
+{
+  "title": "Supervisor Profile",
+  "description": "Get to know our supervisor better",
+  "about": "About the Supervisor",
+  "contact": "Contact Information",
+  "email": "Email",
+  "phone": "Phone",
+  "qualificationsTitle": "Academic Qualifications",
+  "experienceTitle": "Professional Experience",
+  "researchTitle": "Published Research",
+  "coursesTitle": "Courses Taught",
+  "backToTeam": "Back to Team Page",
+  "departmentLabel": "Department",
+  "expertise": "Areas of Expertise",
+  "qualifications": [
+    [
+      "Bachelor's in Journalism and Media",
+      "Master's in Digital Media",
+      "Advanced courses in Journalistic Editing"
+    ],
+    [
+      "PhD in Islamic Studies",
+      "Master's in Islamic Jurisprudence",
+      "Bachelor's in Sharia",
+      "International Certifications in Academic Administration"
+    ],
+    [
+      "PhD in Law",
+      "Master's in International Law",
+      "Bachelor's in Legal Studies",
+      "License to Practice Law"
+    ]
+  ],
+  "experience": [
+    [
+      {
+        "position": "Senior Journalist",
+        "place": "Al-Anwar Newspaper",
+        "period": "2015 - Present",
+        "description": "Coverage of local and international news, writing analytical articles, and supervising the editorial team"
+      },
+      {
+        "position": "Editor",
+        "place": "Algeria News Channel",
+        "period": "2010 - 2015",
+        "description": "Editing news bulletins, preparing field reports, and conducting interviews"
+      },
+      {
+        "position": "Reporter",
+        "place": "Algerian News Agency",
+        "period": "2005 - 2010",
+        "description": "Covering local events, writing news reports"
+      }
+    ],
+    [
+      {
+        "position": "Director of University Center of Naama",
+        "place": "University Center of Naama",
+        "period": "2018 - Present",
+        "description": "Overseeing university center administration, developing academic programs, and enhancing academic quality"
+      },
+      {
+        "position": "Dean of Sharia Faculty",
+        "place": "University Center of Naama",
+        "period": "2012 - 2018",
+        "description": "Managing faculty affairs, developing curricula, and supervising scientific research"
+      },
+      {
+        "position": "Professor of Islamic Studies",
+        "place": "University Center of Naama",
+        "period": "2005 - 2012",
+        "description": "Teaching Islamic jurisprudence courses, supervising master's and doctoral theses"
+      }
+    ],
+    [
+      {
+        "position": "Lecturer",
+        "place": "Faculty of Law - University of Algiers",
+        "period": "2014 - Present",
+        "description": "Teaching international and constitutional law courses, supervising scientific research"
+      },
+      {
+        "position": "Certified Lawyer",
+        "place": "Bar Association",
+        "period": "2010 - 2014",
+        "description": "Representing clients in public and private law cases, providing legal consultations"
+      },
+      {
+        "position": "Legal Researcher",
+        "place": "Center for Legal and Judicial Studies",
+        "period": "2008 - 2010",
+        "description": "Conducting research in comparative law, participating in drafting legislative proposals"
+      }
+    ]
+  ],
+  "research": [
+    [
+      {
+        "title": "The Impact of New Media on Traditional Journalism",
+        "journal": "Algerian Journal of Media",
+        "year": "2020",
+        "abstract": "An analytical study of the impact of digital media on the future of print journalism in the Arab world"
+      },
+      {
+        "title": "Using Social Media Platforms in Breaking News Coverage",
+        "journal": "Digital Media Journal",
+        "year": "2018",
+        "abstract": "An analysis of the role of social media platforms in accelerating news delivery and its impact on media credibility"
+      },
+      {
+        "title": "Ethics of Journalism in the Digital Media Era",
+        "journal": "Journal of Media Ethics",
+        "year": "2016",
+        "abstract": "A study of ethical challenges facing journalists in the digital revolution and the rapid information dissemination"
+      }
+    ],
+    [
+      {
+        "title": "Objectives of Sharia and Their Contemporary Applications",
+        "journal": "Journal of Islamic Sciences",
+        "year": "2021",
+        "abstract": "An analytical study of applying the objectives of Sharia in solving contemporary issues"
+      },
+      {
+        "title": "The Role of Islamic Moderation in Combating Extremism",
+        "journal": "Journal of Islamic Studies",
+        "year": "2019",
+        "abstract": "Research on the importance of promoting principles of moderation in educational curricula and religious discourse"
+      },
+      {
+        "title": "Contemporary Financial Transactions in Islamic Law",
+        "journal": "International Journal of Islamic Economics",
+        "year": "2017",
+        "abstract": "A comparative jurisprudential study of contemporary financial products in light of Islamic Sharia"
+      }
+    ],
+    [
+      {
+        "title": "International Law and National Sovereignty Issues",
+        "journal": "Algerian Journal of Legal Sciences",
+        "year": "2022",
+        "abstract": "An analysis of the relationship between international law and the principle of national sovereignty in light of contemporary global changes"
+      },
+      {
+        "title": "Constitutional Guarantees for Human Rights",
+        "journal": "Journal of Rights and Freedoms",
+        "year": "2020",
+        "abstract": "A comparative study of legal and constitutional guarantees for protecting human rights in Arab legislation"
+      },
+      {
+        "title": "Judicial Reform and Mechanisms to Enhance the Independence of the Judiciary",
+        "journal": "Journal of Justice and Law",
+        "year": "2018",
+        "abstract": "Analysis of ways to develop the judicial system and enhance the independence of the judicial authority"
+      }
+    ]
+  ],
+  "courses": [
+    [
+      "Advanced Journalistic Writing",
+      "Media Editing Techniques",
+      "Digital Media",
+      "Journalism Ethics",
+      "Crisis News Coverage",
+      "Data Journalism"
+    ],
+    [
+      "Principles of Islamic Jurisprudence",
+      "Objectives of Sharia",
+      "Contemporary Financial Transactions",
+      "Jurisprudential Rules",
+      "Islamic Thought",
+      "Academic Administration"
+    ],
+    [
+      "Constitutional Law",
+      "Public International Law",
+      "Human Rights",
+      "Legal Methodology",
+      "Contract Law",
+      "Judicial Procedures"
+    ]
+  ],
+  "extendedBio": [
+    "Mohammed Makhlouf is a distinguished journalist with extensive experience in digital media and traditional journalism. He has gained rich experience through his work in various media institutions and has distinguished himself by his journalistic coverage of many local and international events. He actively contributes to training young journalists and transferring his practical experience to them, emphasizing the importance of adhering to professional ethics and accuracy in information transmission. He has conducted numerous workshops in journalistic editing and digital media.",
+    "Professor Safi Habib is a prominent academic figure in the field of Islamic studies and currently serves as the Director of the University Center of Naama. He has made notable contributions to the development of educational curricula and the enrichment of scientific research in the field of Islamic studies. He has participated in numerous local and international scientific conferences and has valuable publications in his field of specialization. He adopts a moderate approach in addressing Sharia issues, focusing on connecting Islamic sciences with contemporary developments.",
+    "Dr. Khalwati Mosaab is a distinguished legal expert who combines academic expertise and practical experience in the field of law. He holds a PhD in Law and has published research in peer-reviewed scientific journals. He has participated in drafting and developing numerous legal legislations and worked in the field of law practice for several years before devoting himself to academic work. He is particularly interested in human rights issues and constitutional law, and seeks to develop students' skills in legal research."
+  ],
+  "notFound": {
+    "title": "Supervisor Not Found",
+    "description": "Sorry, the supervisor does not exist",
+    "message": "We couldn't find the supervisor you are looking for. Please go back to the team page and try again."
+  }
+}

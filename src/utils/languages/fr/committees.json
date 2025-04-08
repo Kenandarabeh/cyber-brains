@@ -1,0 +1,44 @@
+{
+  "title": "Nos Équipes Spécialisées",
+  "subtitle": "Le Club Cyber Brains au Centre Universitaire de Naama est organisé en équipes spécialisées, chacune se concentrant sur différents aspects de l'informatique",
+  "description": "Chaque équipe est dirigée par des étudiants expérimentés qui coordonnent les projets et offrent du mentorat aux nouveaux membres. Rejoignez l'équipe qui correspond à vos intérêts et compétences !",
+  "items": [
+    {
+      "title": "Équipe de Programmation",
+      "description": "Se concentre sur le développement logiciel et la mise en œuvre de projets de programmation utilisant divers langages et frameworks.",
+      "icon": "programming",
+      "color": "#3178c6"
+    },
+    {
+      "title": "Équipe de Base de Données",
+      "description": "Supervise la conception, le développement et la gestion des bases de données, et implémente des solutions de stockage et d'interrogation de données.",
+      "icon": "database",
+      "color": "#f29111"
+    },
+    {
+      "title": "Équipe de Recherche en IA",
+      "description": "Responsable de la recherche et de l'application dans les domaines de l'IA et de l'apprentissage automatique, et développe des modèles et applications intelligentes.",
+      "icon": "ai",
+      "color": "#41cd52"
+    },
+    {
+      "title": "Équipe de Développement Web",
+      "description": "Organise des projets de développement web frontend et backend, et construit des applications web interactives et des sites web pour le club.",
+      "icon": "web",
+      "color": "#61dafb"
+    },
+    {
+      "title": "Équipe de Cybersécurité",
+      "description": "Responsable de l'évaluation et de l'amélioration de la sécurité des données et des réseaux, de la réalisation de tests de pénétration et du développement de protocoles de sécurité.",
+      "icon": "security",
+      "color": "#e53935"
+    },
+    {
+      "title": "Équipe de Cloud Computing",
+      "description": "Gère l'infrastructure cloud, développe des stratégies d'hébergement et implémente des solutions pour les services et applications cloud.",
+      "icon": "cloud",
+      "color": "#0078d4"
+    }
+  ],
+  "joinCta": "Rejoignez l'une de nos équipes"
+}

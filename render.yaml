@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: rising-media-club
+    runtime: static
+    buildCommand: npm run build
+    staticPublishPath: ./dist
+    envVars:
+      - key: NODE_VERSION
+        value: 16
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: no-cache
+    routes:
+      - type: rewrite
+        source: /**
+        destination: /index.html
+    pullRequestPreviewsEnabled: true

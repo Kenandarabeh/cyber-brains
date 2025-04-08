@@ -1,0 +1,16 @@
+{
+  "ai": {
+    "name": "AI Innovations",
+    "description": "Advanced machine learning frameworks and tools for university research projects in artificial intelligence",
+    "tag1": "AI",
+    "tag2": "Machine Learning",
+    "tag3": "Python"
+  },
+  "security": {
+    "name": "Cyber Security Toolkit",
+    "description": "Essential security tools and resources for university researchers and cybersecurity professionals",
+    "tag1": "Security",
+    "tag2": "Java",
+    "tag3": "Networking"
+  }
+}

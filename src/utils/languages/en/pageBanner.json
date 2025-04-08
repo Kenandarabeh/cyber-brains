@@ -1,0 +1,10 @@
+{
+  "viewPage": "View Page",
+  "branch": "Current Branch",
+  "lastCommit": "Latest Commit",
+  "goBack": "Go Back",
+  "fileInfo": "File Information",
+  "renderTime": "Rendered at",
+  "executing": "Executing",
+  "description": "Description"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "استكشف أنشطتنا",
+  "subtitle": "اكتشف مجموعة متنوعة من الأنشطة الإعلامية التي نقدمها",
+  "categories": {
+    "photography": {
+      "title": "التصوير الفوتوغرافي",
+      "count": "12 نشاط"
+    },
+    "videoProduction": {
+      "title": "إنتاج الفيديو",
+      "count": "8 أنشطة"
+    },
+    "journalism": {
+      "title": "الصحافة",
+      "count": "15 نشاط"
+    },
+    "broadcasting": {
+      "title": "البث الإعلامي",
+      "count": "6 أنشطة"
+    },
+    "filmMaking": {
+      "title": "صناعة الأفلام",
+      "count": "10 أنشطة"
+    },
+    "digitalMedia": {
+      "title": "الإعلام الرقمي",
+      "count": "9 أنشطة"
+    }
+  }
+}

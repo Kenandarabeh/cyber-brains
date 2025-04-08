@@ -1,0 +1,13 @@
+{
+    "Checkout": "Checkout",
+    "Profile": "Profile",
+    "Email": "Email",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "phoneNumber": "رقم الهاتف",
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "required": "مطلوب"
+}

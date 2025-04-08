@@ -1,0 +1,12 @@
+{
+  "title": "Join Our Developer Community",
+  "subtitle": "Connect with fellow students, ask questions, share projects, and collaborate in our active Discord server.",
+  "joinServer": "Join the CyberBrains Discord Server",
+  "membersOnline": "{{count}}+ members online now",
+  "members": "Members",
+  "channels": "Channels",
+  "support": "Support",
+  "joinNow": "Join Discord Server",
+  "connecting": "Connecting to CyberBrains Discord server...",
+  "serverFound": "Server found! Use the link above to join."
+}

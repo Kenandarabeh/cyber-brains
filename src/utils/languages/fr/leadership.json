@@ -1,0 +1,11 @@
+{
+  "title": "Notre Direction",
+  "subtitle": "Excellence et Innovation en Informatique",
+  "description": "Notre équipe d'experts en technologie et d'innovateurs en informatique guide Cyber Brains vers l'excellence éducative et les solutions numériques de pointe.",
+  "badgeText": "Équipe Cyber Brains",
+  "leader": {
+    "skillsLabel": "Compétences",
+    "achievementsLabel": "Réalisations"
+  },
+  "techBadge": "Expert Tech"
+}

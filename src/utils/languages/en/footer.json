@@ -1,0 +1,16 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About Us",
+    "activities": "Activities",
+    "team": "Team",
+    "join": "Join Us",
+    "contact": "Contact"
+  },
+  "title": "Cyber Brains Club",
+  "copyright": "© {year} Cyber Brains Club - All Rights Reserved",
+  "social": "Connect With Us",
+  "developed": "Developed by",
+  "developer": "Kenanda Abdelouahad Rabah",
+  "subtitle": "IT & AI Innovation Club"
+}

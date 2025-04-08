@@ -1,0 +1,37 @@
+{
+  "title": "Frequently Asked Questions",
+  "subtitle": "Questions & Answers",
+  "description": "Everything you need to know about joining and participating in our Tech Club",
+  "docsRepo": "Club documentation and frequently asked questions",
+  "questions": "question",
+  "answered": "Answered",
+  "answer": "Answer",
+  "supportTeam": "Support Team",
+  "helpfulAnswer": "Was this answer helpful?",
+  "faqs": [
+    {
+      "question": "How can I join the Club?",
+      "answer": "You can join our club by filling out the membership application form on our website. We welcome students interested in programming, design, and digital media."
+    },
+    {
+      "question": "What activities does the Club offer?",
+      "answer": "We offer various activities including coding workshops, design training, AI research projects, media coverage of campus events, and technical competition opportunities."
+    },
+    {
+      "question": "Do I need previous experience?",
+      "answer": "No prior experience is required! We welcome beginners and provide comprehensive training in various technical skills. Your enthusiasm and willingness to learn are what matter most."
+    },
+    {
+      "question": "What equipment do I need?",
+      "answer": "While having your own laptop is helpful, the club provides essential equipment for activities. We have development environments, design tools, and other necessary resources for member use."
+    },
+    {
+      "question": "How often does the club meet?",
+      "answer": "We have weekly general meetings and additional workshop sessions. Members can participate in various projects based on their interests and availability."
+    },
+    {
+      "question": "Can I get involved in multiple areas?",
+      "answer": "Absolutely! We encourage members to explore different aspects of technology and find their interests. You can participate in multiple activities and projects."
+    }
+  ]
+}

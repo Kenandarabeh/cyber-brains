@@ -1,0 +1,30 @@
+{
+  "title": "Explorez Nos Activités",
+  "subtitle": "Découvrez la gamme variée d'activités médiatiques que nous proposons",
+  "categories": {
+    "photography": {
+      "title": "Photographie",
+      "count": "12 Événements"
+    },
+    "videoProduction": {
+      "title": "Production Vidéo",
+      "count": "8 Événements"
+    },
+    "journalism": {
+      "title": "Journalisme",
+      "count": "15 Événements"
+    },
+    "broadcasting": {
+      "title": "Diffusion",
+      "count": "6 Événements"
+    },
+    "filmMaking": {
+      "title": "Réalisation de Films",
+      "count": "10 Événements"
+    },
+    "digitalMedia": {
+      "title": "Médias Numériques",
+      "count": "9 Événements"
+    }
+  }
+}

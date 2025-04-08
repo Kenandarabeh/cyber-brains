@@ -1,0 +1,49 @@
+{
+  "title": "Ce Que Disent Nos Membres",
+  "subtitle": "Avis des Membres",
+  "description": "Lisez des avis sincères d'étudiants qui ont rejoint notre communauté et transformé leurs compétences techniques",
+  "errorTitle": "Une erreur s'est produite",
+  "errorMessage": "Impossible de charger les avis. Veuillez réessayer plus tard.",
+  "retry": "Réessayer",
+  "approved": "Approuvé",
+  "commented": "Commenté",
+  "changes": "Modifications demandées",
+  "likes": "{{count}} j'aime",
+  "comments": "{{count}} commentaires",
+  "commits": "{{count}} contributions",
+  "contributors": "Contributeurs",
+  "viewAll": "Voir tous les avis",
+  "openIssue": "Problème ouvert",
+  "merged": "Fusionné",
+  "repository": "avis",
+  "reviewsCount": "{{count}} avis",
+  "activity": "Activité récente",
+  "openedIssue": "a ouvert ce problème à l'instant",
+  "autoRetry": "Nouvelle tentative auto dans 15s",
+  "reportBug": "Signaler un Bug",
+  "reportBugTooltip": "Signaler ce problème",
+  "connectionError": "Erreur de connexion",
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Ayman Lahmar",
+      "role": "Président Actuel",
+      "rating": 5,
+      "text": "Le Club Média m'a offert une opportunité exceptionnelle de développer mes compétences en design et en photographie tout en appliquant ma vision créative à des projets réels qui impactent positivement la communauté étudiante."
+    },
+    {
+      "id": 2,
+      "name": "Abdelghani Belhachemi",
+      "role": "Responsable d'Administration",
+      "rating": 4.5,
+      "text": "Grâce au club, j'ai pu développer mes compétences littéraires et administratives dans un environnement créatif stimulant. Le club n'est pas simplement une activité étudiante, mais une véritable école de développement personnel."
+    },
+    {
+      "id": 3,
+      "name": "Anes Mohammedi",
+      "role": "Fondateur",
+      "rating": 5,
+      "text": "La création du club a été un défi important et une expérience enrichissante qui a contribué à façonner ma personnalité et à développer mes compétences en leadership. Je suis fier de voir le club continuer à accomplir sa mission."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Our Leadership",
+  "subtitle": "Computing Excellence & Innovation",
+  "description": "Our team of technology experts and computer science innovators leads Cyber Brains towards educational excellence and cutting-edge digital solutions.",
+  "badgeText": "Cyber Brains Team",
+  "leader": {
+    "skillsLabel": "Skills",
+    "achievementsLabel": "Achievements"
+  },
+  "techBadge": "Tech Expert"
+}

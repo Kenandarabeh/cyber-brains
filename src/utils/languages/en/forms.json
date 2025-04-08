@@ -1,0 +1,13 @@
+{
+    "Checkout": "Checkout",
+    "Profile": "Profile",
+    "Email": "Email",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "phoneNumber": "Phone Number",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "required": "Required"
+}

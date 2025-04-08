@@ -1,0 +1,10 @@
+{
+  "title": "Our Partners",
+  "sponsors": [
+    { "id": 1, "name": "University Center of Naama" },
+    { "id": 2, "name": "Mobilis Telecom Company" },
+    { "id": 3, "name": "House of Culture" },
+    { "id": 4, "name": "House of Industry" },
+    { "id": 5, "name": "Algeria Telecom" }
+  ]
+}

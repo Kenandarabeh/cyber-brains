@@ -1,0 +1,36 @@
+{
+  "title": "About",
+  "subtitle": "Meet the creative minds behind our media productions",
+  "whoWeAre": {
+    "title": "Who We Are",
+    "description": "We are a passionate team of media professionals committed to delivering high-quality content that inspires and engages audiences worldwide.",
+    "content": "Our diverse team brings together expertise in photography, videography, journalism, and digital media to create compelling stories that resonate with viewers. Founded in 2020, our club has grown to become a hub for creative collaboration and innovation in media production."
+  },
+  "ourMission": {
+    "title": "Our Mission",
+    "description": "To empower voices through innovative media production and storytelling.",
+    "content": "We believe in the power of visual storytelling to create meaningful connections and drive positive change. Through our work, we aim to showcase unique perspectives, highlight important issues, and inspire our audience to engage with the world around them in new ways."
+  },
+  "features": {
+    "title": "What We Offer",
+    "subtitle": "Comprehensive media solutions tailored to your needs",
+    "items": [
+      {
+        "title": "Professional Photography",
+        "description": "High-quality photography services for events, portraits, and commercial needs."
+      },
+      {
+        "title": "Video Production",
+        "description": "End-to-end video production from concept development to final editing."
+      },
+      {
+        "title": "Media Workshops",
+        "description": "Educational workshops to develop your media production skills."
+      },
+      {
+        "title": "Content Creation",
+        "description": "Creative content development for various platforms and audiences."
+      }
+    ]
+  }
+}

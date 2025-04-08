@@ -1,0 +1,70 @@
+{
+  "title": "Direction du Club",
+  "subtitle": "Rencontrez les leaders qui mènent notre club vers le succès",
+  "leaders": [
+    {
+      "id": 1,
+      "name": "Ayman Lahmar",
+      "role": "Président Actuel",
+      "bio": "Actuel président du club et l'un de ses premiers fondateurs, il combine compétences en leadership et créativité. Designer graphique professionnel et photographe distingué, il a clairement contribué au développement de l'identité visuelle du club. Il a supervisé l'organisation de nombreux événements visuels innovants et ateliers de formation en photographie et design. Il cherche constamment à intégrer les technologies modernes dans les activités du club et à développer les compétences des membres dans les domaines créatifs.",
+      "skills": ["Design Graphique Professionnel", "Photographie", "Gestion de Projets Créatifs", "Leadership Motivationnel"],
+      "achievements": "Développement de l'identité visuelle complète du club, création de contenu visuel de haute qualité, organisation d'expositions photographiques distinctives, création d'une équipe spécialisée en production visuelle, lancement des plateformes de médias sociaux du club avec des designs professionnels"
+    },
+    {
+      "id": 2,
+      "name": "Abdelghani Belhachemi",
+      "role": "Responsable d'Administration et d'Organisation",
+      "bio": "Activiste communautaire très efficace, poète talentueux, et leader compétent doté d'une vision administrative distinctive. A contribué significativement au développement de la structure organisationnelle du club et à l'établissement d'un système administratif solide. A supervisé l'organisation d'événements culturels et littéraires de haut niveau, et a contribué à consolider l'aspect littéraire et culturel des activités du club. Se distingue par sa capacité exceptionnelle à communiquer et à établir des relations avec diverses institutions.",
+      "skills": ["Gestion Organisationnelle", "Écriture Poétique et Prose", "Gestion d'Événements", "Planification Stratégique", "Coordination Institutionnelle"],
+      "achievements": "Développement de la structure organisationnelle et administrative du club, lancement de l'initiative des soirées de poésie, organisation du forum des médias et de la littérature, établissement de partenariats stratégiques avec des institutions culturelles, création d'un système de documentation pour les activités du club"
+    },
+    {
+      "id": 3,
+      "name": "Ayman Laradji",
+      "role": "Responsable des Relations",
+      "bio": "L'un des fondateurs du club et responsable des relations qui excelle dans la communication et la construction de réseaux solides. Il a organisé de nombreux événements réussis et contribué de manière significative à l'élargissement de l'influence du club. Considéré comme un leader naturel, il possède des compétences particulières pour faciliter la collaboration entre différentes parties et établir des partenariats stratégiques avec diverses institutions.",
+      "skills": ["Relations Publiques", "Organisation", "Communication Efficace", "Leadership", "Gestion d'Événements"],
+      "achievements": "Établissement d'un vaste réseau de relations pour le club, organisation de nombreux événements réussis, construction d'alliances stratégiques avec diverses institutions, expansion de l'influence locale du club"
+    },
+    {
+      "id": 4,
+      "name": "Rafida Zouidi",
+      "role": "Secrétaire Générale",
+      "bio": "En tant que secrétaire générale du club, elle se distingue comme une commentatrice vocale naturellement douée. Elle possède une variété de talents et a organisé une gamme d'activités réussies avec le club. Elle contribue activement à l'amélioration des processus de communication interne et externe du club et a un impact clair sur l'arrangement administratif distingué des activités et événements.",
+      "skills": ["Commentaire Vocal", "Gestion Organisationnelle", "Capacités Multiples", "Documentation", "Organisation"],
+      "achievements": "Développement du travail administratif du club, organisation efficace de nombreux événements, amélioration du système de communication interne du club, ajout d'une touche créative aux activités du club"
+    },
+    {
+      "id": 5,
+      "name": "Doha Bouafia",
+      "role": "Responsable du Comité de Documentation d'Information",
+      "bio": "Experte distinguée en design et responsable du comité de documentation d'information du club. Elle possède des compétences exceptionnelles en leadership et une capacité remarquable à organiser et préserver l'information de manière professionnelle. Elle a considérablement contribué à la construction d'une archive numérique complète pour le club et au développement de mécanismes pour documenter avec précision et systématiquement les activités et événements.",
+      "skills": ["Design Graphique", "Documentation d'Information", "Archivage Numérique", "Gestion de Données", "Leadership"],
+      "achievements": "Création d'un système d'archivage numérique complet pour le club, développement d'une identité visuelle unifiée pour la documentation, organisation du contenu médiatique du club, construction d'une base d'information complète sur les activités du club"
+    },
+    {
+      "id": 6,
+      "name": "Abdeljalil Chabab",
+      "role": "Chef du Comité des Ressources",
+      "bio": "En tant que chef du comité des ressources du club, il se distingue comme un leader exceptionnel et remarquable. Il possède de grandes capacités dans la gestion des ressources et des moyens logistiques, les employant de manière optimale pour servir les activités du club. Il a contribué au développement de l'infrastructure technique du club et à la sécurisation des moyens nécessaires à la réussite de divers événements.",
+      "skills": ["Gestion des Ressources", "Planification Stratégique", "Support Logistique", "Leadership", "Résolution de Problèmes"],
+      "achievements": "Développement du système de support logistique du club, sécurisation des moyens techniques nécessaires aux événements, amélioration des mécanismes de gestion des ressources, organisation de nombreux événements techniques réussis"
+    },
+    {
+      "id": 7,
+      "name": "Anes",
+      "role": "Chef du Comité de Presse",
+      "bio": "En tant que chef du comité de presse du club, il est expert en journalisme et médias. Il se distingue par des compétences élevées en écriture journalistique, préparation de rapports médiatiques et couverture professionnelle d'événements. Il a contribué à renforcer la présence médiatique du club et à développer des stratégies de communication avec divers médias.",
+      "skills": ["Écriture Journalistique", "Couverture Médiatique", "Édition", "Relations Médias", "Gestion de Contenu"],
+      "achievements": "Développement d'une stratégie médiatique complète pour le club, établissement de relations avec les médias locaux, couverture professionnelle des événements du club, production de contenu journalistique de haute qualité"
+    },
+    {
+      "id": 8,
+      "name": "Khris Abdenasser",
+      "role": "Vice-président du Club",
+      "bio": "Un leader exceptionnel et un stratège brillant avec un talent naturel pour l'organisation d'activités et d'événements. Il se distingue par sa capacité extraordinaire à développer des plans stratégiques et à les exécuter avec une grande efficacité. Il joue un rôle de premier plan dans le développement des mécanismes d'organisation d'événements et dans la garantie de leur succès, ce qui a contribué à renforcer la réputation du club et sa présence dans le milieu étudiant et culturel.",
+      "skills": ["Planification Stratégique", "Organisation d'Événements", "Leadership Créatif", "Coordination et Communication", "Gestion de Projets"],
+      "achievements": "Développement d'une stratégie annuelle complète pour les événements, organisation de plus de 10 événements réussis avec une large participation du public, construction d'un système d'évaluation et de développement pour les activités, création d'un manuel directif pour l'organisation d'événements au sein du club, formation d'une équipe spécialisée dans la gestion des activités"
+    }
+  ]
+}

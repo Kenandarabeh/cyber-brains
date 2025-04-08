@@ -1,0 +1,20 @@
+{
+  "title": "Our Purpose & Direction",
+  "subtitle": "Discover our vision, mission, and the core values that drive our media club forward",
+  "missions": [
+    {
+      "title": "Our Vision",
+      "description": "To become the leading platform for student media innovation and creativity at the University Center of Naama and beyond"
+    },
+    {
+      "title": "Our Mission",
+      "description": "Empowering students at the University Center of Naama to excel in digital media and storytelling through hands-on experience and collaborative projects"
+    },
+    {
+      "title": "Our Values",
+      "description": "Fostering collaboration, creativity, and professional growth in media production while serving our university community"
+    }
+  ],
+  "content": "Rising Media Club was established at the University Center of Naama as a specialized media club dedicated to providing students with practical skills and experience in all forms of media production.",
+  "coreObjectives": "Mission and vision defined in 3 core objectives"
+}

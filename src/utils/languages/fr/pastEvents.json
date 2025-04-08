@@ -1,0 +1,96 @@
+{
+  "title": "Événements Passés",
+  "subtitle": "Découvrez nos événements et réalisations précédents",
+  "eventInfo": {
+    "date": "Date",
+    "location": "Lieu",
+    "attendees": "Participants",
+    "highlights": "Points Forts",
+    "gallery": "Aperçu de la Galerie"
+  },
+  "actions": {
+    "viewGallery": "Voir la Galerie",
+    "watchVideo": "Regarder la Vidéo",
+    "close": "Fermer",
+    "viewDetails": "Voir Détails"
+  },
+  "categories": {
+    "exhibition": "Exposition",
+    "workshop": "Atelier",
+    "screening": "Projection",
+    "training": "Formation"
+  },
+  "viewPhotos": "Voir Photos",
+  "noImages": "Aucune image disponible",
+  "instructorsCount": "Formateurs: {{count}}",
+  "componentsCount": "Composants: {{count}}",
+  "highlightTexts": {
+    "photoCount": "{{count}}+ photographies exposées",
+    "studentCount": "{{count}} étudiants photographes",
+    "awardsCount": "{{count}} prix d'excellence",
+    "daysCount": "{{count}} jours",
+    "speakersCount": "{{count}} présentateurs",
+    "handsOn": "Formation pratique",
+    "studentProductions": "Productions étudiantes",
+    "qaSession": "Session de questions-réponses",
+    "awardsCeremony": "Cérémonie de remise des prix",
+    "dateTime": "{{date}} - {{time}}",
+    "certificateAwarded": "Reconnaissance et certificats"
+  },
+  "events": {
+    "stageAnimation": {
+      "title": "Atelier d'Animation sur Scène",
+      "location": "Premier Pôle - Salle des Professeurs",
+      "description": "Le Club Médiatique Montant a organisé un atelier formatif dans le domaine de l'animation sur scène le dimanche 15 décembre 2024 à 10h00 au Premier Pôle dans la Salle des Professeurs, sous la direction d'Anas Mohammedi, fondateur national du Club Médiatique Montant-Naama, avec la présence de la professionnelle des médias Kandouz Adila du Théâtre Régional de Naama, et sous la supervision du président du club Ayman Lahmer et de la responsable du comité des formations Anfal Nagaz. L'atelier s'est concentré sur la présentation de conseils et de concepts sur l'animation et ses fondamentaux, où l'animateur a partagé son expertise dans le domaine, encourageant et instillant la confiance chez les participants, tant les membres du club que les étudiants du centre. L'atelier comprenait deux volets (théorique et pratique) afin de découvrir et de former des talents en animation. En conclusion, l'atelier s'est terminé par des conseils et des orientations, et l'instructeur Anas Mohammedi a été honoré par le club et les participants présents. Remerciements à tous ceux qui ont organisé et supervisé cet atelier.",
+      "gallery": {
+        "image1": "Atelier d'Animation sur Scène",
+        "image2": "Session Théorique d'Animation",
+        "image3": "Participation des Étudiants",
+        "image4": "Application Pratique",
+        "image5": "Hommage à l'Instructeur Anas Mohammedi"
+      },
+      "components": {
+        "theoretical": "Théorique",
+        "practical": "Pratique",
+        "theoreticalDesc": "Présentation de conseils, concepts et fondamentaux de l'animation ainsi que l'expérience de l'animateur dans le domaine",
+        "practicalDesc": "Découverte et développement des talents d'animation à travers l'application directe"
+      }
+    },
+    "photographyBasics": {
+      "title": "Atelier Bases de la Photographie",
+      "location": "Maison de l'Entrepreneuriat, Centre Universitaire Salhi Ahmed, Naama",
+      "description": "Les membres féminins du Club Médiatique Montant ont bénéficié d'un atelier formatif dans le domaine de la photographie intitulé 'Bases de la Caméra', encadré par le professeur estimé 'Ahmed Ragad' et supervisé par la responsable du comité de formation 'Mejad Asala'. L'atelier s'est concentré principalement sur l'application pratique sans négliger les aspects théoriques, donnant aux membres du club et aux futures journalistes l'opportunité d'apprendre la photographie et ses fondamentaux. L'atelier a été organisé à la Maison de l'Entrepreneuriat du Centre Universitaire Salhi Ahmed à Naama. En conclusion, l'instructeur a été honoré pour ses efforts dans la promotion de la connaissance et de l'apprentissage pour les membres du club dans ce domaine, et des conseils ont été fournis en insistant sur la continuité de l'application dans les sessions futures.",
+      "gallery": {
+        "image1": "Formation Bases de la Caméra",
+        "image2": "Explication Théorique de la Photographie",
+        "image3": "Application Pratique",
+        "image4": "Participants à l'Atelier",
+        "image5": "Hommage à l'Instructeur Ahmed Ragad"
+      },
+      "components": {
+        "theoretical": "Théorique",
+        "practical": "Pratique",
+        "theoreticalDesc": "Bases de la photographie et de la caméra d'un point de vue théorique",
+        "practicalDesc": "Application pratique avec utilisation de la caméra et prise de photos"
+      }
+    },
+    "radioTvPresentation": {
+      "title": "Atelier de Présentation Radio et Télévision",
+      "location": "Premier Pôle - Salle des Professeurs",
+      "description": "Notre club a organisé une formation dans le domaine de la présentation radio et télévision et de la préparation journalistique sous la supervision des professeurs Fathi Ayada et Samai Lakhdar, avec la présence de Tayebi Soufiane et Ezz Eddine Ben Khadouma. La formation a inclus une visite du Directeur de l'Institut des Sciences Humaines et Sociales, Dr. Boudouaia Mabkhout, qui nous a honorés avec ses paroles inspirantes sur le Club Médiatique Montant et a offert son soutien et sa motivation aux membres, appréciant leurs efforts.",
+      "gallery": {
+        "image1": "Atelier de Présentation Radio et TV",
+        "image2": "Session Théorique",
+        "image3": "Visite du Directeur de l'Institut",
+        "image4": "Session Pratique",
+        "image5": "Photo de Groupe"
+      },
+      "components": {
+        "theoretical": "Théorique",
+        "practical": "Pratique",
+        "theoreticalDesc": "Les membres ont acquis des conseils et de la terminologie médiatique dans la présentation et l'animation radio et télévision",
+        "practicalDesc": "Les membres ont appliqué leurs apprentissages directement dans la présentation de journaux télévisés, l'animation d'émissions et le commentaire vocal"
+      }
+    }
+  }
+}

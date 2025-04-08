@@ -1,0 +1,163 @@
+/* Styles optimisés pour le carousel des superviseurs avec flèches visibles */
+
+.supervisors-carousel {
+  position: relative;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
+
+/* Important: S'assurer que le slider est positionné statiquement */
+.supervisors-carousel.slick-slider {
+  position: static !important;
+}
+
+/* Styles pour les flèches de navigation - GitHub Style */
+.supervisors-carousel .slick-arrow,
+.supervisors-carousel .slick-prev,
+.supervisors-carousel .slick-next {
+  z-index: 1000 !important;
+  opacity: 1 !important;
+  display: block !important;
+  width: 46px !important;
+  height: 46px !important;
+  border-radius: 50% !important;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25) !important;
+}
+
+/* Supprimer les styles par défaut des flèches qui créent des conflits */
+.supervisors-carousel .slick-arrow:before,
+.supervisors-carousel .slick-prev:before,
+.supervisors-carousel .slick-next:before {
+  display: none !important;
+}
+
+/* Assurer une bonne hauteur pour le conteneur principal */
+.supervisors-carousel .slick-list {
+  padding: 15px 0;
+  overflow: visible !important;
+  min-height: 520px;
+}
+
+.supervisors-carousel .slick-track {
+  display: flex !important;
+  align-items: stretch;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 520px;
+}
+
+.supervisors-carousel .slick-slide {
+  height: auto !important;
+  min-height: 520px;
+  opacity: 1;
+  padding: 0 8px;
+  transition: all 0.3s ease;
+}
+
+.supervisors-carousel .slick-slide > div {
+  height: 100%;
+  min-height: 520px;
+  padding: 0 4px; /* Reduced padding for better card size */
+}
+
+/* Support pour RTL */
+[dir="rtl"] .supervisors-carousel .slick-slide {
+  float: right;
+}
+
+/* Style des points de navigation - GitHub Style */
+.supervisors-carousel .slick-dots {
+  bottom: -25px;
+  z-index: 10;
+  display: flex !important;
+  justify-content: center !important;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.supervisors-carousel .slick-dots li {
+  margin: 0 4px;
+  width: 10px !important;
+  height: 10px !important;
+  padding: 0 !important;
+}
+
+.supervisors-carousel .slick-dots li button {
+  width: 8px !important;
+  height: 8px !important;
+  padding: 0 !important;
+  border-radius: 50% !important;
+  background-color: var(--dot-color, rgba(255, 255, 255, 0.2)) !important;
+  opacity: 0.6;
+  border: none !important;
+  transition: all 0.3s ease;
+}
+
+.supervisors-carousel .slick-dots li.slick-active button {
+  background-color: var(--primary-color, #58a6ff) !important;
+  opacity: 1;
+  transform: scale(1.2);
+  box-shadow: 0 0 5px var(--primary-color, rgba(88, 166, 255, 0.7));
+}
+
+/* Remove the default dots styles */
+.supervisors-carousel .slick-dots li button:before {
+  display: none !important;
+}
+
+/* GitHub-style active slide highlight */
+.supervisors-carousel .slick-current {
+  z-index: 5;
+}
+
+/* تحسينات GitHub-style للوضع المظلم */
+[data-mode="dark"] .supervisors-carousel .slick-dots li button {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+[data-mode="dark"] .supervisors-carousel .slick-dots li.slick-active button {
+  background-color: var(--primary-color, #58a6ff) !important;
+  box-shadow: 0 0 5px rgba(88, 166, 255, 0.7);
+}
+
+/* Styles responsifs */
+@media (max-width: 767px) {
+  .supervisors-carousel {
+    padding-bottom: 30px;
+  }
+
+  .supervisors-carousel .slick-arrow {
+    display: none !important;
+  }
+
+  .supervisors-carousel .slick-list,
+  .supervisors-carousel .slick-track,
+  .supervisors-carousel .slick-slide,
+  .supervisors-carousel .slick-slide > div {
+    min-height: 450px;
+    max-height: 500px;
+  }
+  
+  .supervisors-carousel .slick-dots {
+    bottom: -15px;
+    margin-top: 0;
+    padding-top: 0;
+  }
+}
+
+/* Styles pour très petits écrans */
+@media (max-width: 480px) {
+  .supervisors-carousel {
+    padding-bottom: 25px;
+  }
+  
+  .supervisors-carousel .slick-list {
+    padding: 5px 0;
+  }
+  
+  .supervisors-carousel .slick-dots {
+    bottom: -10px;
+  }
+}

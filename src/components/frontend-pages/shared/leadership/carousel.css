@@ -1,0 +1,167 @@
+.leadership-carousel.slick-slider .slick-list {
+  margin: 0;
+  padding: 10px 0;
+  overflow: hidden !important;
+}
+
+.leadership-carousel {
+  position: relative;
+  padding-bottom: 70px !important; /* زيادة المساحة السفلية للتأكد من وجود مساحة كافية للنقاط */
+  margin: 0 auto;
+}
+
+[dir="rtl"] .leadership-carousel {
+  direction: rtl;
+}
+
+/* إصلاح RTL تماماً مثل alumni-carousel.css و supervisors-carousel.css */
+.leadership-carousel.slick-slider {
+  direction: ltr !important;
+}
+
+.leadership-carousel .slick-slide {
+  opacity: 1 !important; /* تأكيد الظهور لجميع الشرائح */
+  transition: all 0.3s ease;
+  height: auto !important; /* التأكد من ضبط الارتفاع تلقائياً */
+  transform: none !important; /* إلغاء التحويلات التي قد تسبب اختفاء العناصر */
+  padding: 0 10px;
+  visibility: visible !important; /* ضمان ظهور العنصر */
+}
+
+/* منع تطبيق float: right تلقائياً في RTL لأننا نستخدم نهجًا مختلفًا */
+[dir="rtl"] .leadership-carousel .slick-slide {
+  float: left !important;
+}
+
+/* السماح للمحتوى الداخلي بالتوجيه الصحيح */
+[dir="rtl"] .leadership-carousel .slick-slide > div {
+  direction: rtl;
+  text-align: right;
+}
+
+/* تحسين عرض الشرائح النشطة والغير نشطة */
+.leadership-carousel .slick-slide.slick-active {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+[dir='rtl'] .leadership-carousel .slick-slide {
+  float: right;
+}
+
+/* تعديل موضع وشكل نقاط التنقل */
+.leadership-carousel .slick-dots {
+  position: absolute !important;
+  bottom: -45px !important;
+  list-style: none !important;
+  display: flex !important;
+  justify-content: center !important;
+  z-index: 10 !important;
+  width: 100%;
+  gap: 8px;
+  padding: 0;
+  margin: 0 !important;
+}
+
+/* تحسين مظهر نقاط التنقل */
+.leadership-carousel .slick-dots li {
+  width: 10px !important;
+  height: 10px !important;
+  margin: 0 5px !important;
+  padding: 0 !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+.leadership-carousel .slick-dots li button {
+  width: 10px !important;
+  height: 10px !important;
+  padding: 0 !important;
+  border-radius: 50% !important;
+  background-color: rgba(0, 0, 0, 0.2) !important;
+  border: none !important;
+  font-size: 0 !important;
+  opacity: 1 !important;
+  display: block !important;
+  visibility: visible !important;
+}
+
+/* أضف تحديد نقاط التنقل النشطة بشكل صريح */
+.leadership-carousel .slick-dots li.slick-active button {
+  background-color: var(--primary-color, #1976d2) !important;
+  opacity: 1 !important;
+}
+
+/* إخفاء النقطة السوداء الافتراضية ومنع أي أنماط افتراضية */
+.leadership-carousel .slick-dots li button:before {
+  display: none !important;
+  content: none !important;
+  opacity: 0 !important;
+}
+
+/* تحديد الألوان بشكل صريح بناءً على الوضع */
+[data-mode='dark'] .leadership-carousel .slick-dots li button {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+[data-mode='dark'] .leadership-carousel .slick-dots li.slick-active button {
+  background-color: #90caf9 !important; /* لون أفتح للوضع المظلم */
+}
+
+/* تحسين إظهار المسار */
+.leadership-carousel .slick-track {
+  display: flex !important;
+  margin: 0 auto;
+  min-height: 450px; /* إضافة ارتفاع أدنى للمسار */
+}
+
+/* ضبط العرض في الشاشات المختلفة */
+@media (min-width: 1200px) {
+  .leadership-carousel .slick-slide {
+    width: calc(100% / 3) !important; /* 3 عناصر للشاشات الكبيرة */
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  .leadership-carousel .slick-slide {
+    width: 50% !important; /* عنصرين للشاشات المتوسطة */
+  }
+}
+
+@media (max-width: 767px) {
+  .leadership-carousel {
+    padding: 0 0 70px 0 !important;
+  }
+  
+  .leadership-carousel .slick-slide {
+    width: 100% !important; /* عنصر واحد للهاتف */
+    padding: 0 5px;
+  }
+  
+  .leadership-carousel .slick-dots {
+    bottom: -40px !important;
+    z-index: 5;
+  }
+  
+  /* ضمان ظهور البطاقات بشكل صحيح في الهاتف */
+  .leadership-carousel .slick-track {
+    min-height: 400px;
+    padding-bottom: 20px; /* إضافة مساحة أسفل المسار */
+  }
+  
+  .leadership-carousel .slick-slide > div {
+    height: auto !important;
+    min-height: 450px;
+  }
+  
+  /* تكبير النقاط قليلاً لتسهيل النقر عليها في الهاتف */
+  .leadership-carousel .slick-dots li {
+    width: 12px !important;
+    height: 12px !important;
+  }
+  
+  .leadership-carousel .slick-dots li button {
+    width: 12px !important;
+    height: 12px !important;
+  }
+}

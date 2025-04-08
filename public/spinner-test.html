@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Spinner Test</title>
+  <style>
+    .fallback-spinner {
+      position: relative;
+      display: flex;
+      height: 100vh;
+      width: 100%;
+    }
+    .loading {
+      position: absolute;
+      left: calc(50% - 35px);
+      top: 50%;
+      width: 55px;
+      height: 55px;
+      border-radius: 50%;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      border: 3px solid transparent;
+    }
+    .effect-1,
+    .effect-2 {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border: 3px solid transparent;
+      border-left: 3px solid #D4AF37;
+      border-radius: 50%;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    .effect-1 {
+      animation: rotate 1s ease infinite;
+    }
+    .effect-2 {
+      animation: rotateOpacity 1s ease infinite 0.1s;
+    }
+    .effect-3 {
+      width: 100%;
+      height: 100%;
+      border: 3px solid transparent;
+      border-left: 3px solid #D4AF37;
+      -webkit-animation: rotateOpacity 1s ease infinite 0.2s;
+      animation: rotateOpacity 1s ease infinite 0.2s;
+      border-radius: 50%;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    .loading .effects {
+      transition: all 0.3s ease;
+    }
+    .fallback-logo {
+      position: absolute;
+      left: calc(50% - 45px);
+      top: 40%;
+    }
+
+    @keyframes rotate {
+      0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+      }
+      100% {
+        -webkit-transform: rotate(1turn);
+        transform: rotate(1turn);
+      }
+    }
+    @keyframes rotateOpacity {
+      0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+        opacity: 0.1;
+      }
+      100% {
+        -webkit-transform: rotate(1turn);
+        transform: rotate(1turn);
+        opacity: 1;
+      }
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+    
+    .container {
+      text-align: center;
+      padding: 20px;
+    }
+    
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+
+
+  <script>
+    function showSpinner() {
+      // Create spinner element
+      const loaderElement = document.createElement('div');
+      loaderElement.id = 'global-loader';
+      loaderElement.style.position = 'fixed';
+      loaderElement.style.top = '0';
+      loaderElement.style.left = '0';
+      loaderElement.style.width = '100vw';
+      loaderElement.style.height = '100vh';
+      loaderElement.style.backgroundColor = '#ffffff';
+      loaderElement.style.zIndex = '99999';
+      loaderElement.style.display = 'flex';
+      loaderElement.style.justifyContent = 'center';
+      loaderElement.style.alignItems = 'center';
+      
+      // Add spinner HTML
+      const spinnerHTML = `
+      <div class="fallback-spinner">
+        <div class="loading component-loader">
+          <div class="effect-1 effects"></div>
+          <div class="effect-2 effects"></div>
+          <div class="effect-3 effects"></div>
+        </div>
+      </div>
+      `;
+      
+      loaderElement.innerHTML = spinnerHTML;
+      
+      // Add text element
+      const textElement = document.createElement('div');
+      textElement.style.position = 'relative';
+      textElement.style.top = '80px';
+      textElement.style.color = '#D4AF37';
+      textElement.style.fontSize = '18px';
+      textElement.style.fontWeight = 'bold';
+      textElement.textContent = 'Loading...';
+      
+      loaderElement.appendChild(textElement);
+      document.body.appendChild(loaderElement);
+      
+      // Remove spinner after 3 seconds
+      setTimeout(() => {
+        document.body.removeChild(loaderElement);
+      }, 3000);
+    }
+  </script>
+</body>
+</html>

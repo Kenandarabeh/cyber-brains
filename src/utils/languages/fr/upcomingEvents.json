@@ -1,0 +1,17 @@
+{
+  "title": "Événements à Venir",
+  "subtitle": "Inscrivez-vous à nos prochains ateliers et activités",
+  "status": {
+    "open": "Ouvert",
+    "almostFull": "Presque Complet",
+    "full": "Complet"
+  },
+  "register": "S'inscrire",
+  "capacity": "Inscrits",
+  "eventInfo": {
+    "date": "Date",
+    "time": "Heure",
+    "location": "Lieu",
+    "capacity": "Capacité"
+  }
+}

@@ -1,0 +1,50 @@
+/* قواعد CSS إضافية لدعم RTL */
+
+html[dir='rtl'] .MuiTooltip-tooltip {
+  direction: rtl;
+  text-align: right;
+}
+
+html[dir='rtl'] .MuiTableCell-root {
+  text-align: right;
+}
+
+html[dir='rtl'] .MuiDialogContentText-root {
+  text-align: right;
+}
+
+html[dir='rtl'] .MuiLink-root,
+html[dir='rtl'] a {
+  direction: rtl;
+}
+
+html[dir='rtl'] .MuiInputAdornment-root {
+  margin-left: 0;
+  margin-right: 8px;
+}
+
+html[dir='rtl'] .MuiListItemText-root {
+  text-align: right;
+}
+
+/* تصحيح أيقونات RTL */
+html[dir='rtl'] .rotate-rtl {
+  transform: rotate(180deg);
+}
+
+/* ضمان أن أكواد البرمجة تكون دائمًا LTR حتى في وضع RTL */
+code, pre, .code-block, [class*="language-"] {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+/* ضمان أن العناصر التي تحتوي على أكواد تكون LTR */
+html[dir='rtl'] pre,
+html[dir='rtl'] code,
+html[dir='rtl'] .MuiTypography-root pre,
+html[dir='rtl'] .MuiTypography-root code,
+html[dir='rtl'] [dir="ltr"] {
+  direction: ltr !important;
+  text-align: left !important;
+  display: block;
+}

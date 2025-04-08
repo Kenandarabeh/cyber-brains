@@ -1,0 +1,110 @@
+{
+  "title": "Our Events",
+  "subtitle": "Discover the exciting events organized by Rising Media Club at the University Center of Naama",
+  "description": "We host a variety of events throughout the academic year, from workshops and training sessions to media exhibitions and collaborative projects. Join us to enhance your skills and connect with fellow media enthusiasts.",
+  "upcomingTitle": "Upcoming Events",
+  "pastTitle": "Past Events",
+  "noEvents": "No upcoming events at the moment. Check back soon!",
+  "registerButton": "Register Now",
+  "learnMoreButton": "Learn More",
+  "filterAll": "All Events",
+  "filterWorkshop": "Workshops",
+  "filterCompetition": "Competitions",
+  "filterExhibition": "Exhibitions",
+  "filterConference": "Conferences",
+  "seeAllEvents": "See All Events",
+  "events": [
+    {
+      "id": 1,
+      "title": "Photography Workshop",
+      "description": "Learn essential photography techniques from composition to lighting with professional equipment.",
+      "date": "2023-11-15",
+      "time": "14:00 - 17:00",
+      "location": "Media Lab, University Center of Naama",
+      "category": "workshop",
+      "image": "/images/events/photography-workshop.jpg",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Campus Documentary Screening",
+      "description": "Join us for the premiere of our documentary showcasing student life at the University Center of Naama.",
+      "date": "2023-12-05",
+      "time": "18:00 - 20:00",
+      "location": "Main Auditorium, University Center of Naama",
+      "category": "exhibition",
+      "image": "/images/events/documentary-screening.jpg",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Digital Media Contest",
+      "description": "Showcase your creativity in our annual digital media competition with categories in photography, video, and graphic design.",
+      "date": "2024-01-20",
+      "time": "All Day",
+      "location": "Online",
+      "category": "competition",
+      "image": "/images/events/media-contest.jpg",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Journalism Masterclass",
+      "description": "A comprehensive workshop on modern journalism practices and techniques led by industry professionals.",
+      "date": "2024-02-10",
+      "time": "10:00 - 16:00",
+      "location": "Conference Room B, University Center of Naama",
+      "category": "workshop",
+      "image": "/images/events/journalism-workshop.jpg",
+      "featured": false
+    }
+  ],
+  "eventDetails": {
+    "dateLabel": "Date",
+    "timeLabel": "Time",
+    "locationLabel": "Location",
+    "categoryLabel": "Category",
+    "organizerLabel": "Organizer",
+    "registrationLabel": "Registration",
+    "freeEvent": "Free Event",
+    "paidEvent": "Paid Event",
+    "registrationRequired": "Registration Required",
+    "registrationClosed": "Registration Closed",
+    "limitedSeats": "Limited Seats Available"
+  },
+  "pastEvents": [
+    {
+      "id": 1,
+      "title": "Training Workshop on Radio and Television Presentation and Journalistic Preparation",
+      "date": "2024-12-03",
+      "time": "13:30",
+      "location": "First Pole, Faculty Room, University Center of Naama",
+      "category": "Training",
+      "coverImage": "formation_3_1",
+      "instructors": ["Fathi Ayada", "Samai Lakhdar"],
+      "attendees": ["Taibi Sofiane", "Azzedine Ben Khadouma"],
+      "specialGuests": [
+        {
+          "name": "Dr. Boudwaya Mabkhout",
+          "title": "Director of the Institute of Humanities and Social Sciences"
+        }
+      ],
+      "components": [
+        {
+          "type": "Theoretical",
+          "description": "Helped members acquire a set of media terminologies and guidance in radio and television presentation and animation"
+        },
+        {
+          "type": "Practical",
+          "description": "Consisted of direct application for members in news bulletin presentation, program hosting, and voice commentary"
+        }
+      ],
+      "gallery": ["formation_3_1", "formation_3_2", "formation_3_3", "formation_3_4"],
+      "report": {
+        "author": "Fekiki Hajar",
+        "supervisor": "Documentation Committee"
+      },
+      "description": "Our club organized a training workshop on Tuesday, December 3, 2024, at 1:30 PM in the First Pole faculty room on 'Radio and Television Presentation and Journalistic Preparation'. The workshop was led by respected professors Fathi Ayada and Samai Lakhdar, with the attendance of Taibi Sofiane and Azzedine Ben Khadouma. The workshop was also visited by the Director of the Institute of Humanities and Social Sciences, Dr. Boudwaya Mabkhout, who honored us with his encouraging words about the Rising Media Club, provided support and motivation to its members, and appreciated their efforts. The workshop activities included advice from the respected professors and sharing their experience in this field. It included two aspects: a theoretical component that helped members acquire media terminology and guidance in radio and television presentation, and a practical component that involved direct application in news bulletin presentation, program hosting, and voice commentary. The workshop concluded with guidance from the professors, may Allah benefit us with their knowledge and grant them more excellence and brilliance."
+    }
+  ]
+}

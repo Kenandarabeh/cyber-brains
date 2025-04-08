@@ -1,0 +1,55 @@
+{
+  "title": "Contactez Cyber Brains",
+  "description": "Vous avez des questions ou besoin d'aide ? Contactez notre équipe et nous vous répondrons dès que possible.",
+  "subtitle": "Notre Support Technique Numérique",
+  "firstName": "Prénom",
+  "lastName": "Nom",
+  "phoneNumber": "Numéro de Téléphone",
+  "email": "Adresse Email",
+  "enquiryRelatedTo": "À propos de votre demande",
+  "message": "Votre Message",
+  "submit": "Envoyer le Message",
+  "sending": "Envoi en cours...",
+  "successMessage": "Votre message a été envoyé avec succès! Nous vous répondrons bientôt.",
+  "errorMessage": "Une erreur s'est produite. Veuillez réessayer.",
+  "enquiryOptions": [
+    {
+      "value": "one",
+      "label": "Demande Générale"
+    },
+    {
+      "value": "two",
+      "label": "Support Technique"
+    },
+    {
+      "value": "three",
+      "label": "Rejoindre Notre Équipe"
+    },
+    {
+      "value": "four",
+      "label": "Partenariats et Collaboration"
+    },
+    {
+      "value": "five",
+      "label": "Événements et Ateliers"
+    }
+  ],
+  "address": {
+    "title": "Adresse",
+    "line1": "Centre Universitaire Salhi Ahmed",
+    "line2": "Naama",
+    "country": "Algérie"
+  },
+  "contactEmail": {
+    "title": "Email",
+    "value": "clubemedia4@gmail.com"
+  },
+  "phone": {
+    "title": "Téléphone",
+    "value": "0553 67 18 31"
+  },
+  "hours": {
+    "title": "Heures d'ouverture",
+    "value": "Lundi - Vendredi: 9h - 17h"
+  }
+}

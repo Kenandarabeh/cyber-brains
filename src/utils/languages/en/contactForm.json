@@ -1,0 +1,55 @@
+{
+  "title": "Get in Touch with Cyber Brains",
+  "description": "Have questions or need assistance? Reach out to our team and we'll get back to you as soon as possible.",
+  "subtitle": "Our Digital Tech Support",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "phoneNumber": "Phone Number",
+  "email": "Email Address",
+  "enquiryRelatedTo": "What is your inquiry about?",
+  "message": "Your Message",
+  "submit": "Send Message",
+  "sending": "Sending...",
+  "successMessage": "Your message has been sent successfully! We'll get back to you soon.",
+  "errorMessage": "An error occurred. Please try again.",
+  "enquiryOptions": [
+    {
+      "value": "one",
+      "label": "General Inquiry"
+    },
+    {
+      "value": "two",
+      "label": "Technical Support"
+    },
+    {
+      "value": "three",
+      "label": "Join Our Team"
+    },
+    {
+      "value": "four",
+      "label": "Partnerships & Collaboration"
+    },
+    {
+      "value": "five",
+      "label": "Events & Workshops"
+    }
+  ],
+  "contactEmail": {
+    "title": "Email",
+    "value": "clubemedia4@gmail.com"
+  },
+  "phone": {
+    "title": "Phone",
+    "value": "0553 67 18 31"
+  },
+  "hours": {
+    "title": "Working Hours",
+    "value": "Monday - Friday: 9AM - 5PM"
+  },
+  "address": {
+    "title": "Address",
+    "line1": "University Center Salhi Ahmed",
+    "line2": "Naama",
+    "country": "Algeria"
+  }
+}

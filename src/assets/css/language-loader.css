@@ -1,0 +1,87 @@
+#global-language-loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 99999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.3s;
+  background-color: var(--bg-color, rgba(246, 248, 250, 0.8));
+}
+
+#global-language-loader.spinner-dark-mode {
+  background-color: var(--dark-bg-color, rgba(13, 17, 23, 0.95));
+}
+
+/* Override for language-specific load message */
+#global-language-loader .typed-code.language-changer:after {
+  content: 'npm install cyber-brains --save';
+}
+
+/* Make sure the loader spans the entire viewport */
+#global-language-loader .fallback-spinner {
+  height: 100vh;
+  width: 100vw;
+}
+
+/* Add some GitHub-like grid pattern for the language loader background */
+#global-language-loader:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    linear-gradient(var(--gridLines, rgba(208, 215, 222, 0.3)) 1px, transparent 1px),
+    linear-gradient(90deg, var(--gridLines, rgba(208, 215, 222, 0.3)) 1px, transparent 1px);
+  background-size: 50px 50px;
+  opacity: 0.4;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Radial gradient overlay to soften the edges */
+#global-language-loader:after {
+  content: '';
+  position: absolute;
+  top: -100px;
+  left: -100px;
+  right: -100px;
+  bottom: -100px;
+  background: radial-gradient(
+    circle at 50% 50%, 
+    transparent 30%, 
+    var(--bg-color, rgba(246, 248, 250, 0.8))
+  );
+  opacity: 0.8;
+  z-index: -1;
+  pointer-events: none;
+}
+
+#global-language-loader.spinner-dark-mode:after {
+  background: radial-gradient(
+    circle at 50% 50%, 
+    transparent 30%, 
+    var(--dark-bg-color, rgba(13, 17, 23, 0.95))
+  );
+}
+
+/* Override to make spinner centered on full screen */
+#global-language-loader .loading-container {
+  margin-top: -60px; /* Move up slightly for visual balance */
+}
+
+/* Custom variables for the language loader */
+#global-language-loader {
+  --gridLines: rgba(208, 215, 222, 0.3);
+  --bg-color: #ffffff;
+  --dark-bg-color: #0d1117;
+}
+
+#global-language-loader.spinner-dark-mode {
+  --gridLines: rgba(48, 54, 61, 0.3);
+}

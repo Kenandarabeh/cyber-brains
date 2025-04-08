@@ -1,0 +1,36 @@
+{
+  "title": "À Propos",
+  "subtitle": "Rencontrez les esprits créatifs derrière nos productions médiatiques",
+  "whoWeAre": {
+    "title": "Qui Sommes-Nous",
+    "description": "Nous sommes une équipe passionnée de professionnels des médias engagés à fournir du contenu de haute qualité qui inspire et engage le public du monde entier.",
+    "content": "Notre équipe diversifiée réunit des experts en photographie, vidéographie, journalisme et médias numériques pour créer des histoires captivantes qui résonnent avec les spectateurs. Fondé en 2020, notre club est devenu un centre de collaboration créative et d'innovation dans la production médiatique."
+  },
+  "ourMission": {
+    "title": "Notre Mission",
+    "description": "Donner une voix à travers la production médiatique innovante et la narration.",
+    "content": "Nous croyons au pouvoir de la narration visuelle pour créer des connexions significatives et conduire un changement positif. À travers notre travail, nous visons à présenter des perspectives uniques, à mettre en lumière des questions importantes et à inspirer notre public à s'engager avec le monde qui les entoure de nouvelles façons."
+  },
+  "features": {
+    "title": "Ce Que Nous Offrons",
+    "subtitle": "Des solutions médiatiques complètes adaptées à vos besoins",
+    "items": [
+      {
+        "title": "Photographie Professionnelle",
+        "description": "Services de photographie de haute qualité pour événements, portraits et besoins commerciaux."
+      },
+      {
+        "title": "Production Vidéo",
+        "description": "Production vidéo de bout en bout, du développement du concept à l'édition finale."
+      },
+      {
+        "title": "Ateliers Médias",
+        "description": "Ateliers éducatifs pour développer vos compétences en production médiatique."
+      },
+      {
+        "title": "Création de Contenu",
+        "description": "Développement de contenu créatif pour diverses plateformes et publics."
+      }
+    ]
+  }
+}

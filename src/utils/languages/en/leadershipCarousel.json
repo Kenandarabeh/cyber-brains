@@ -1,0 +1,70 @@
+{
+  "title": "Club Leadership",
+  "subtitle": "Meet the leaders who drive our club towards success",
+  "leaders": [
+    {
+      "id": 1,
+      "name": "Ayman Lahmar",
+      "role": "Current President",
+      "bio": "Current president of the club and one of its early founders, he combines leadership skills and creativity. A professional graphic designer and distinguished photographer with a clear contribution to developing the club's visual identity. He has supervised the organization of many innovative visual events and training workshops in photography and design. Always seeks to integrate modern technology in the club's activities and develop members' skills in creative fields.",
+      "skills": ["Professional Graphic Design", "Photography", "Creative Project Management", "Motivational Leadership"],
+      "achievements": "Developed the club's complete visual identity, created high-quality visual content, organized distinctive photography exhibitions, established a team specialized in visual production, launched the club's social media platforms with professional designs"
+    },
+    {
+      "id": 2,
+      "name": "Abdelghani Belhachemi",
+      "role": "Administration and Organization Manager",
+      "bio": "A highly effective community activist, talented poet, and skilled leader with a distinctive administrative vision. Contributed significantly to developing the club's organizational structure and establishing a robust administrative system. Supervised the organization of high-level cultural and literary events, and contributed to consolidating the literary and cultural aspect of the club's activities. Distinguished by his exceptional ability to communicate and build relationships with various institutions.",
+      "skills": ["Organizational Management", "Poetry and Prose Writing", "Event Management", "Strategic Planning", "Institutional Coordination"],
+      "achievements": "Developed the club's organizational and administrative structure, launched the poetry evenings initiative, organized the media and literature forum, built strategic partnerships with cultural institutions, created a documentation system for club activities"
+    },
+    {
+      "id": 3,
+      "name": "Ayman Laradji",
+      "role": "Relations Manager",
+      "bio": "One of the club founders and a Relations Manager who excels in communication and building strong networks. He has organized numerous successful events and contributed significantly to expanding the club's influence. Considered a natural leader, he possesses special skills in facilitating collaboration between different parties and building strategic partnerships with various institutions.",
+      "skills": ["Public Relations", "Organization", "Effective Communication", "Leadership", "Event Management"],
+      "achievements": "Established an extensive network of relationships for the club, organized numerous successful events, built strategic alliances with various institutions, expanded the club's local influence"
+    },
+    {
+      "id": 4,
+      "name": "Rafida Zouidi",
+      "role": "General Secretary",
+      "bio": "Serving as the General Secretary of the club, she is distinguished as a naturally gifted voice commentator. She possesses a variety of talents and has organized a range of successful activities with the club. She actively contributes to improving the club's internal and external communication processes and has a clear impact on the distinguished administrative arrangement of activities and events.",
+      "skills": ["Voice Commentary", "Organizational Management", "Multiple Capabilities", "Documentation", "Organization"],
+      "achievements": "Developed the administrative work of the club, efficiently organized numerous events, improved the club's internal communication system, added a creative touch to club activities"
+    },
+    {
+      "id": 5,
+      "name": "Doha Bouafia",
+      "role": "Head of Information Documentation Committee",
+      "bio": "A distinguished expert in design and serves as the head of the Information Documentation Committee in the club. She has exceptional leadership skills and a remarkable ability to organize and preserve information professionally. She has significantly contributed to building a comprehensive digital archive for the club and developing mechanisms for accurately and systematically documenting activities and events.",
+      "skills": ["Graphic Design", "Information Documentation", "Digital Archiving", "Data Management", "Leadership"],
+      "achievements": "Created a comprehensive digital archiving system for the club, developed a unified visual identity for documentation, organized the club's media content, built a comprehensive information base about club activities"
+    },
+    {
+      "id": 6,
+      "name": "Abdeljalil Chabab",
+      "role": "Head of Resources Committee",
+      "bio": "Serving as the head of the Resources Committee in the club, he is distinguished as an outstanding and exceptional leader. He has high capabilities in managing resources and logistical means and employing them optimally to serve the club's activities. He has contributed to developing the club's technical infrastructure and securing the necessary means for the success of various events.",
+      "skills": ["Resource Management", "Strategic Planning", "Logistical Support", "Leadership", "Problem Solving"],
+      "achievements": "Developed the club's logistical support system, secured technical means necessary for events, improved resource management mechanisms, organized many successful technical events"
+    },
+    {
+      "id": 7,
+      "name": "Anes",
+      "role": "Head of Press Committee",
+      "bio": "Serving as the head of the Press Committee in the club, he is an expert in journalism and media. He is distinguished by high skills in journalistic writing, preparing media reports, and covering events professionally. He has contributed to enhancing the club's media presence and developing communication strategies with various media outlets.",
+      "skills": ["Journalistic Writing", "Media Coverage", "Editing", "Media Relations", "Content Management"],
+      "achievements": "Developed a comprehensive media strategy for the club, built relationships with local media outlets, provided professional coverage of club events, produced high-quality journalistic content"
+    },
+    {
+      "id": 8,
+      "name": "Khris Abdenasser",
+      "role": "Vice President of the Club",
+      "bio": "An exceptional leader and brilliant strategist with a natural talent for organizing activities and events. He is distinguished by his extraordinary ability to develop strategic plans and execute them with high efficiency. He plays a prominent role in developing event organization mechanisms and ensuring their success, which has contributed to enhancing the club's reputation and presence in the student and cultural scene.",
+      "skills": ["Strategic Planning", "Event Organization", "Creative Leadership", "Coordination and Communication", "Project Management"],
+      "achievements": "Developed a comprehensive annual events strategy, organized more than 10 successful events with large audience attendance, built an evaluation and development system for activities, created a guideline manual for organizing events within the club, trained a specialized team in activity management"
+    }
+  ]
+}

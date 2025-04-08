@@ -1,0 +1,110 @@
+{
+  "title": "Nos Événements",
+  "subtitle": "Découvrez les événements passionnants organisés par le Rising Media Club au Centre Universitaire de Naama",
+  "description": "Nous organisons une variété d'événements tout au long de l'année académique, des ateliers et sessions de formation aux expositions médiatiques et projets collaboratifs. Rejoignez-nous pour améliorer vos compétences et vous connecter avec d'autres passionnés des médias.",
+  "upcomingTitle": "Événements à Venir",
+  "pastTitle": "Événements Passés",
+  "noEvents": "Aucun événement à venir pour le moment. Revenez bientôt !",
+  "registerButton": "S'inscrire Maintenant",
+  "learnMoreButton": "En Savoir Plus",
+  "filterAll": "Tous les Événements",
+  "filterWorkshop": "Ateliers",
+  "filterCompetition": "Compétitions",
+  "filterExhibition": "Expositions",
+  "filterConference": "Conférences",
+  "seeAllEvents": "Voir Tous les Événements",
+  "events": [
+    {
+      "id": 1,
+      "title": "Atelier de Photographie",
+      "description": "Apprenez les techniques essentielles de photographie, de la composition à l'éclairage avec un équipement professionnel.",
+      "date": "2023-11-15",
+      "time": "14:00 - 17:00",
+      "location": "Laboratoire Médias, Centre Universitaire de Naama",
+      "category": "workshop",
+      "image": "/images/events/photography-workshop.jpg",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Projection de Documentaire sur le Campus",
+      "description": "Rejoignez-nous pour la première de notre documentaire présentant la vie étudiante au Centre Universitaire de Naama.",
+      "date": "2023-12-05",
+      "time": "18:00 - 20:00",
+      "location": "Auditorium Principal, Centre Universitaire de Naama",
+      "category": "exhibition",
+      "image": "/images/events/documentary-screening.jpg",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Concours de Médias Numériques",
+      "description": "Montrez votre créativité dans notre compétition annuelle de médias numériques avec des catégories en photographie, vidéo et design graphique.",
+      "date": "2024-01-20",
+      "time": "Toute la Journée",
+      "location": "En Ligne",
+      "category": "competition",
+      "image": "/images/events/media-contest.jpg",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Masterclass de Journalisme",
+      "description": "Un atelier complet sur les pratiques et techniques du journalisme moderne dirigé par des professionnels de l'industrie.",
+      "date": "2024-02-10",
+      "time": "10:00 - 16:00",
+      "location": "Salle de Conférence B, Centre Universitaire de Naama",
+      "category": "workshop",
+      "image": "/images/events/journalism-workshop.jpg",
+      "featured": false
+    }
+  ],
+  "eventDetails": {
+    "dateLabel": "Date",
+    "timeLabel": "Heure",
+    "locationLabel": "Lieu",
+    "categoryLabel": "Catégorie",
+    "organizerLabel": "Organisateur",
+    "registrationLabel": "Inscription",
+    "freeEvent": "Événement Gratuit",
+    "paidEvent": "Événement Payant",
+    "registrationRequired": "Inscription Requise",
+    "registrationClosed": "Inscriptions Fermées",
+    "limitedSeats": "Places Limitées"
+  },
+  "pastEvents": [
+    {
+      "id": 1,
+      "title": "Atelier de Formation sur la Présentation Radiophonique et Télévisée et la Préparation Journalistique",
+      "date": "2024-12-03",
+      "time": "13:30",
+      "location": "Premier Pôle, Salle des Professeurs, Centre Universitaire de Naama",
+      "category": "Formation",
+      "coverImage": "formation_3_1",
+      "instructors": ["Fathi Ayada", "Samai Lakhdar"],
+      "attendees": ["Taibi Sofiane", "Azzedine Ben Khadouma"],
+      "specialGuests": [
+        {
+          "name": "Dr. Boudwaya Mabkhout",
+          "title": "Directeur de l'Institut des Sciences Humaines et Sociales"
+        }
+      ],
+      "components": [
+        {
+          "type": "Théorique",
+          "description": "A aidé les membres à acquérir un ensemble de terminologies médiatiques et d'orientations en matière de présentation et d'animation radiophonique et télévisée"
+        },
+        {
+          "type": "Pratique",
+          "description": "A consisté en une application directe pour les membres dans la présentation de bulletins d'information, l'animation de programmes et le commentaire vocal"
+        }
+      ],
+      "gallery": ["formation_3_1", "formation_3_2", "formation_3_3", "formation_3_4"],
+      "report": {
+        "author": "Fekiki Hajar",
+        "supervisor": "Comité de Documentation"
+      },
+      "description": "Notre club a organisé un atelier de formation le mardi 3 décembre 2024 à 13h30 dans la salle des professeurs du Premier Pôle sur 'La Présentation Radiophonique et Télévisée et la Préparation Journalistique'. L'atelier était dirigé par les respectés professeurs Fathi Ayada et Samai Lakhdar, avec la participation de Taibi Sofiane et Azzedine Ben Khadouma. L'atelier a également reçu la visite du Directeur de l'Institut des Sciences Humaines et Sociales, Dr. Boudwaya Mabkhout, qui nous a honorés de ses paroles encourageantes concernant le Rising Media Club, a apporté soutien et motivation à ses membres, et a apprécié leurs efforts. Les activités de l'atelier comprenaient des conseils des respectés professeurs et le partage de leur expérience dans ce domaine. Il comportait deux aspects : un volet théorique qui a aidé les membres à acquérir une terminologie médiatique et des orientations en matière de présentation radiophonique et télévisée, et un volet pratique qui impliquait une application directe dans la présentation de bulletins d'information, l'animation de programmes et le commentaire vocal. L'atelier s'est conclu par des conseils des professeurs, qu'Allah nous fasse bénéficier de leur savoir et leur accorde davantage d'excellence et de brillance."
+    }
+  ]
+}

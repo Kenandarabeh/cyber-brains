@@ -1,0 +1,38 @@
+{
+  "title": "Our Commitments",
+  "subtitle": "What drives us at Rising Media Club, University Center of Naama",
+  "description": "As a student-led media organization, we are committed to excellence, innovation, and service to our university community through media production and storytelling.",
+  "items": [
+    {
+      "title": "Student Development",
+      "description": "We are committed to providing opportunities for students to develop practical media skills through hands-on experience and mentorship.",
+      "icon": "graduation"
+    },
+    {
+      "title": "University Representation",
+      "description": "We strive to represent the University Center of Naama with professionalism and creativity in all our media productions.",
+      "icon": "building"
+    },
+    {
+      "title": "Community Engagement",
+      "description": "We are dedicated to using media as a tool to engage with the broader community and highlight important issues.",
+      "icon": "world"
+    },
+    {
+      "title": "Media Ethics",
+      "description": "We commit to upholding the highest standards of journalistic integrity and ethical media practices in all our work.",
+      "icon": "shield"
+    },
+    {
+      "title": "Innovation",
+      "description": "We continuously explore new media technologies and storytelling techniques to keep our content fresh and engaging.",
+      "icon": "bulb"
+    },
+    {
+      "title": "Inclusivity",
+      "description": "We welcome diverse perspectives and ensure all voices within our university community are represented in our media.",
+      "icon": "users"
+    }
+  ],
+  "cta": "Join our commitment to media excellence"
+}

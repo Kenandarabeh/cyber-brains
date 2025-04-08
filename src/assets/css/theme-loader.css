@@ -1,0 +1,35 @@
+/* Theme loader specific styles */
+#global-theme-loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.95);
+  z-index: 9999;
+  font-family: monospace;
+  transition: opacity 0.3s ease;
+}
+
+body.spinner-dark-mode #global-theme-loader,
+.spinner-dark-mode #global-theme-loader {
+  background-color: rgba(13, 17, 23, 0.95);
+}
+
+/* Animation for theme change text */
+.theme-changer:after {
+  content: '';
+  animation: changeThemeText 2s infinite;
+}
+
+@keyframes changeThemeText {
+  0% { content: 'const theme = '; }
+  25% { content: 'const theme = {mode: '; }
+  50% { content: 'const theme = {mode: "dark"}'; }
+  75% { content: 'applyTheme(theme)'; }
+  100% { content: 'document.reload()'; }
+}

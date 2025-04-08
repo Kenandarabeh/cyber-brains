@@ -1,0 +1,23 @@
+{
+  "title": "Who We Are",
+  "description": "An innovative university club dedicated to excellence in computer science and AI",
+  "content": "Cyber Brains Club is a university club specializing in computing and advanced technology. Our club serves as a creative hub where students can explore, learn, and excel in various fields of computer science including programming, artificial intelligence, application development, and cybersecurity.",
+  "values": [
+    {
+      "title": "Collaborative Community",
+      "description": "Building a supportive network of creative minds and technology enthusiasts"
+    },
+    {
+      "title": "Innovation & Creativity",
+      "description": "Pushing technological boundaries and finding innovative solutions to contemporary challenges"
+    },
+    {
+      "title": "Passion for Technology",
+      "description": "Driven by our love for programming and developing impactful technical solutions"
+    },
+    {
+      "title": "Technical Excellence",
+      "description": "Striving for the highest standards in all technical projects and initiatives"
+    }
+  ]
+}

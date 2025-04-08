@@ -1,0 +1,32 @@
+{
+  "title": "Nos Services Principaux",
+  "subtitle": "Découvrez nos services médiatiques complets offerts par le Rising Media Club au Centre Universitaire de Naama",
+  "csTitle": "Services du Club d'Informatique",
+  "csSubtitle": "Découvrez nos activités diverses en informatique et programmation offertes par le Club Cyber Brains au Centre Universitaire",
+  "items": [
+    {
+      "title": "Photographie",
+      "description": "Services de photographie professionnelle pour les événements universitaires, portraits d'étudiants et activités du campus"
+    },
+    {
+      "title": "Production Vidéo",
+      "description": "Création de contenu vidéo captivant et de documentaires mettant en valeur la vie étudiante et les réalisations universitaires"
+    },
+    {
+      "title": "Journalisme",
+      "description": "Couverture des événements du campus et rédaction d'histoires engageantes sur la communauté du Centre Universitaire de Naama"
+    },
+    {
+      "title": "Diffusion",
+      "description": "Diffusion en direct et couverture d'événements pour les conférences universitaires et occasions spéciales"
+    },
+    {
+      "title": "Média Numérique",
+      "description": "Contenu web et gestion des réseaux sociaux pour promouvoir les activités universitaires et les réalisations des étudiants"
+    },
+    {
+      "title": "Communauté",
+      "description": "Rejoignez une équipe créative de passionnés des médias dédiée à développer la présence médiatique de l'université"
+    }
+  ]
+}

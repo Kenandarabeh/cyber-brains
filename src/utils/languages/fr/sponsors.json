@@ -1,0 +1,10 @@
+{
+  "title": "Nos Partenaires",
+  "sponsors": [
+    { "id": 1, "name": "Centre Universitaire de Naama" },
+    { "id": 2, "name": "Société de Télécommunications Mobilis" },
+    { "id": 3, "name": "Maison de la Culture" },
+    { "id": 4, "name": "Maison de l'Industrie" },
+    { "id": 5, "name": "Algérie Télécom" }
+  ]
+}

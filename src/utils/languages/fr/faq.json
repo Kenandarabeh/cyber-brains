@@ -1,0 +1,37 @@
+{
+  "title": "Questions Fréquemment Posées",
+  "subtitle": "Questions & Réponses",
+  "description": "Tout ce que vous devez savoir sur l'adhésion et la participation à notre Club Tech",
+  "docsRepo": "Documentation du club et questions fréquentes",
+  "questions": "question",
+  "answered": "Répondu",
+  "answer": "Réponse",
+  "supportTeam": "Équipe de Support",
+  "helpfulAnswer": "Cette réponse était-elle utile?",
+  "faqs": [
+    {
+      "question": "Comment puis-je rejoindre le Club?",
+      "answer": "Vous pouvez rejoindre notre club en remplissant le formulaire de demande d'adhésion sur notre site Web. Nous accueillons les étudiants intéressés par la programmation, le design et les médias numériques."
+    },
+    {
+      "question": "Quelles activités propose le Club?",
+      "answer": "Nous proposons diverses activités, notamment des ateliers de codage, une formation en design, des projets de recherche en IA, une couverture médiatique des événements du campus et des opportunités de compétition technique."
+    },
+    {
+      "question": "Ai-je besoin d'une expérience préalable?",
+      "answer": "Aucune expérience préalable n'est requise! Nous accueillons les débutants et proposons une formation complète dans diverses compétences techniques. Votre enthousiasme et votre volonté d'apprendre sont ce qui compte le plus."
+    },
+    {
+      "question": "De quel équipement ai-je besoin?",
+      "answer": "Bien qu'avoir son propre ordinateur portable soit utile, le club fournit l'équipement essentiel pour les activités. Nous disposons d'environnements de développement, d'outils de conception et d'autres ressources nécessaires à l'usage des membres."
+    },
+    {
+      "question": "À quelle fréquence le club se réunit-il?",
+      "answer": "Nous avons des réunions générales hebdomadaires et des sessions d'ateliers supplémentaires. Les membres peuvent participer à divers projets en fonction de leurs intérêts et de leur disponibilité."
+    },
+    {
+      "question": "Puis-je m'impliquer dans plusieurs domaines?",
+      "answer": "Absolument! Nous encourageons les membres à explorer différents aspects de la technologie et à trouver leurs intérêts. Vous pouvez participer à plusieurs activités et projets."
+    }
+  ]
+}

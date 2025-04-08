@@ -1,0 +1,38 @@
+{
+  "title": "Membres des Comités",
+  "subtitle": "Les membres de notre club travaillent dans différents comités pour créer un contenu médiatique exceptionnel",
+  "committees": [
+    {
+      "name": "Production Médiatique",
+      "members": [
+        { "name": "Ahmed Mohammed", "role": "Photographe", "image": "/images/members/1.jpg" },
+        { "name": "Sarah Khalid", "role": "Monteur Vidéo", "image": "/images/members/2.jpg" }
+      ]
+    },
+    {
+      "name": "Création de Contenu",
+      "members": [
+        { "name": "Mohammed Abdullah", "role": "Rédacteur de Contenu", "image": "/images/members/3.jpg" },
+        { "name": "Noura Saeed", "role": "Correcteur", "image": "/images/members/4.jpg" }
+      ]
+    },
+    {
+      "name": "Médias Sociaux",
+      "members": [
+        { "name": "Omar Ali", "role": "Gestionnaire de Compte", "image": "/images/members/5.jpg" }
+      ]
+    },
+    {
+      "name": "Design Graphique",
+      "members": [
+        { "name": "Fatima Ahmed", "role": "Designer Graphique", "image": "/images/members/6.jpg" }
+      ]
+    },
+    {
+      "name": "Relations Publiques",
+      "members": [
+        { "name": "Khalid Youssef", "role": "Coordinateur des Relations", "image": "/images/members/7.jpg" }
+      ]
+    }
+  ]
+}

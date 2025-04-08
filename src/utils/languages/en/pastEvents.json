@@ -1,0 +1,96 @@
+{
+  "title": "Past Events",
+  "subtitle": "Explore our previous events and achievements",
+  "eventInfo": {
+    "date": "Date",
+    "location": "Location",
+    "attendees": "Attendees",
+    "highlights": "Event Highlights",
+    "gallery": "Gallery Preview"
+  },
+  "actions": {
+    "viewGallery": "View Gallery",
+    "watchVideo": "Watch Video",
+    "close": "Close",
+    "viewDetails": "View Details"
+  },
+  "categories": {
+    "exhibition": "Exhibition",
+    "workshop": "Workshop",
+    "screening": "Screening",
+    "training": "Training"
+  },
+  "viewPhotos": "View Photos",
+  "noImages": "No images available",
+  "instructorsCount": "Instructors: {{count}}",
+  "componentsCount": "Components: {{count}}",
+  "highlightTexts": {
+    "photoCount": "{{count}}+ photographs displayed",
+    "studentCount": "{{count}} student photographers",
+    "awardsCount": "{{count}} excellence awards",
+    "daysCount": "{{count}} days",
+    "speakersCount": "{{count}} speakers",
+    "handsOn": "Hands-on training",
+    "studentProductions": "Student productions",
+    "qaSession": "Q&A session",
+    "awardsCeremony": "Awards ceremony",
+    "dateTime": "{{date}} - {{time}}",
+    "certificateAwarded": "Recognition and certificates"
+  },
+  "events": {
+    "stageAnimation": {
+      "title": "Stage Animation Workshop",
+      "location": "First Pole - Professors Hall",
+      "description": "The Rising Media Club organized a training workshop on stage animation on Sunday, December 15, 2024 at 10:00 at the First Pole in the Professors' Hall. The workshop was led by 'Anas Mohammedi', the national founder of the Rising Media Club-Naama, with the presence of media professional 'Kandouz Adila' from the Naama Regional Theater, under the supervision of the club president 'Ayman Lahmer' and the head of the training courses committee 'Anfal Nagaz'. The workshop focused on providing advice and concepts about stage animation and its basics, with the animator sharing his experience in the field, encouraging and instilling confidence in the participants from both the club members and general students of the center. The workshop included both theoretical and practical components to discover and develop talent in animation. The workshop concluded with guidance and recommendations, where the instructor 'Anas Mohammedi' was honored by the club and participants. Thanks to all those who organized and supervised this workshop.",
+      "gallery": {
+        "image1": "Stage Animation Workshop",
+        "image2": "Theoretical Animation Session",
+        "image3": "Student Participation",
+        "image4": "Practical Application",
+        "image5": "Honoring Instructor Anas Mohammedi"
+      },
+      "components": {
+        "theoretical": "Theoretical",
+        "practical": "Practical",
+        "theoreticalDesc": "Providing advice, concepts, and fundamentals of animation along with the animator's field experience",
+        "practicalDesc": "Discovering and developing animation talents through direct application"
+      }
+    },
+    "photographyBasics": {
+      "title": "Camera Basics Workshop",
+      "location": "Entrepreneurship House, Salhi Ahmed University Center, Naama",
+      "description": "The Rising Media Club's female members enjoyed a formative workshop in the field of photography titled 'Camera Basics', framed by esteemed Professor 'Ahmed Ragad' and supervised by the training committee head 'Mejad Asala'. The workshop focused primarily on practical application without neglecting theoretical aspects, giving club members and future journalists the opportunity to learn camera photography and its fundamentals. The workshop was organized at the Entrepreneurship House of Salhi Ahmed University Center in Naama. At the conclusion, the instructor was honored for his efforts in promoting knowledge and learning for the club members in this field, and advice was provided with emphasis on continuing application in future sessions.",
+      "gallery": {
+        "image1": "Camera Basics Training",
+        "image2": "Photography Theory Explanation",
+        "image3": "Practical Application",
+        "image4": "Workshop Participants",
+        "image5": "Honoring Instructor Ahmed Ragad"
+      },
+      "components": {
+        "theoretical": "Theoretical",
+        "practical": "Practical",
+        "theoreticalDesc": "Photography and camera basics from a theoretical perspective",
+        "practicalDesc": "Hands-on application with camera usage and photo-taking"
+      }
+    },
+    "radioTvPresentation": {
+      "title": "Radio and Television Presentation Workshop",
+      "location": "First Pole - Professors Hall",
+      "description": "Our club organized a training course in radio and television presentation and journalistic preparation under the supervision of professors Fathi Ayada and Samai Lakhdar with the presence of Tayebi Soufiane and Ezz Eddine Ben Khadouma. The course included a visit from the Director of the Institute of Humanities and Social Sciences, Dr. Boudouaia Mabkhout, who honored us with his inspiring words about the Rising Media Club and offered support and motivation to its members, appreciating their efforts.",
+      "gallery": {
+        "image1": "Radio and TV Presentation Workshop",
+        "image2": "Theoretical Session",
+        "image3": "Institute Director's Visit",
+        "image4": "Practical Session",
+        "image5": "Group Photo"
+      },
+      "components": {
+        "theoretical": "Theoretical",
+        "practical": "Practical",
+        "theoreticalDesc": "Members acquired guidance and media terminology in radio and television presentation and animation",
+        "practicalDesc": "Members applied their learning directly in news presentation, program hosting, and voice commentary"
+      }
+    }
+  }
+}

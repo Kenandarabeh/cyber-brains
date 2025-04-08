@@ -1,0 +1,30 @@
+{
+  "title": "Our Supervisors",
+  "subtitle": "Academic & Professional Guidance",
+  "description": "Distinguished professors guiding our journey in computer science and innovation, providing expertise and mentorship to our members",
+  "badgeText": "University Mentors",
+  "departmentLabel": "Department",
+  "supervisors": [
+    {
+      "id": 1,
+      "name": "Amine Makhlouf",
+      "role": "Academic Supervisor",
+      "department": "Sub-Directorate of Cultural and Sports Activities, University Center",
+      "bio": "A distinguished professor and supervisor who works in the Sub-Directorate of Cultural and Sports Activities at the University Center. He supports students' creative initiatives and contributes his expertise in guiding the club towards its educational and media objectives."
+    },
+    {
+      "id": 2,
+      "name": "Prof. Habib Safi",
+      "role": "Director of University Center of Naama",
+      "department": "Department of Islamic Studies",
+      "bio": "Director of the University Center of Naama and Professor in Islamic Studies. Provides strategic guidance to the club and supports its academic initiatives within the university."
+    },
+    {
+      "id": 3,
+      "name": "Dr. Khalwati Mosaab",
+      "role": "Lecturer",
+      "department": "Faculty of Law",
+      "bio": "Doctor specialized in law with exceptional practical and academic experience. Contributes to the club's governance and provides valuable insights on ethical and legal aspects of technology implementation."
+    }
+  ]
+}

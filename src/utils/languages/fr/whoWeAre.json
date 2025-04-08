@@ -1,0 +1,23 @@
+{
+  "title": "Qui Sommes-Nous",
+  "description": "Un club universitaire innovant dédié à l'excellence en informatique et en IA",
+  "content": "Club Cyber Brains est un club universitaire spécialisé dans l'informatique et les technologies avancées. Notre club sert de pôle créatif où les étudiants peuvent explorer, apprendre et exceller dans divers domaines de l'informatique, notamment la programmation, l'intelligence artificielle, le développement d'applications et la cybersécurité.",
+  "values": [
+    {
+      "title": "Communauté Collaborative",
+      "description": "Construire un réseau de soutien d'esprits créatifs et de passionnés de technologie"
+    },
+    {
+      "title": "Innovation et Créativité",
+      "description": "Repousser les limites technologiques et trouver des solutions innovantes aux défis contemporains"
+    },
+    {
+      "title": "Passion pour la Technologie",
+      "description": "Motivés par notre amour pour la programmation et le développement de solutions techniques percutantes"
+    },
+    {
+      "title": "Excellence Technique",
+      "description": "Viser les normes les plus élevées dans tous nos projets et initiatives techniques"
+    }
+  ]
+}

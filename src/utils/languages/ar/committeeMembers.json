@@ -1,0 +1,38 @@
+{
+  "title": "أعضاء اللجان",
+  "subtitle": "أعضاء نادينا يعملون في مختلف اللجان لإنشاء محتوى إعلامي متميز",
+  "committees": [
+    {
+      "name": "لجنة الإنتاج الإعلامي",
+      "members": [
+        { "name": "أحمد محمد", "role": "مصور", "image": "/images/members/1.jpg" },
+        { "name": "سارة خالد", "role": "مونتير", "image": "/images/members/2.jpg" }
+      ]
+    },
+    {
+      "name": "لجنة إنشاء المحتوى",
+      "members": [
+        { "name": "محمد عبدالله", "role": "كاتب محتوى", "image": "/images/members/3.jpg" },
+        { "name": "نورة سعيد", "role": "مدقق لغوي", "image": "/images/members/4.jpg" }
+      ]
+    },
+    {
+      "name": "لجنة وسائل التواصل الاجتماعي",
+      "members": [
+        { "name": "عمر علي", "role": "مدير حسابات", "image": "/images/members/5.jpg" }
+      ]
+    },
+    {
+      "name": "لجنة التصميم الجرافيكي",
+      "members": [
+        { "name": "فاطمة أحمد", "role": "مصمم جرافيك", "image": "/images/members/6.jpg" }
+      ]
+    },
+    {
+      "name": "لجنة العلاقات العامة",
+      "members": [
+        { "name": "خالد يوسف", "role": "منسق علاقات", "image": "/images/members/7.jpg" }
+      ]
+    }
+  ]
+}

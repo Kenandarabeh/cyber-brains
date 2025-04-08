@@ -1,0 +1,87 @@
+{
+  "title": "Profil du Leader",
+  "description": "Apprenez à mieux connaître notre leader de club",
+  "about": "À propos du Leader",
+  "featuredProjects": "Projets en Vedette",
+  "contact": "Coordonnées",
+  "email": "Email",
+  "phone": "Téléphone",
+  "socialConnect": "Me contacter",
+  "viewProject": "Voir le projet",
+  "backToTeam": "Retour à la Page d'Équipe",
+  "technologies": "Compétences Techniques & Frameworks",
+  "technologiesData": {
+    "title": "Compétences Techniques & Frameworks",
+    "frameworks": [
+      { "name": "React.js", "icon": "react" },
+      { "name": "Node.js", "icon": "nodejs" },
+      { "name": "JavaScript", "icon": "javascript" },
+      { "name": "Python", "icon": "python" },
+      { "name": "PHP", "icon": "php" },
+      { "name": "Figma", "icon": "figma" }
+    ]
+  },
+  "professionalSkills": "Compétences Professionnelles",
+  "certificationsTitle": "Certifications Professionnelles",
+  "certifications": {
+    "cert1": {
+      "name": "Gestionnaire de Médias Numériques Certifié",
+      "issuer": "Association Internationale pour les Technologies Médiatiques",
+      "year": "2023"
+    },
+    "cert2": {
+      "name": "Développement Professionnel en Leadership",
+      "issuer": "Institut National de Leadership",
+      "year": "2022"
+    },
+    "cert3": {
+      "name": "Gestion de Projet Avancée",
+      "issuer": "Institut de Gestion de Projet",
+      "year": "2021"
+    }
+  },
+  "tabs": {
+    "about": "À propos",
+    "projects": "Projets",
+    "achievements": "Compétences & Réalisations"
+  },
+  "achievements": {
+    "achievement1": {
+      "title": "Prix d'Excellence en Contenu Numérique",
+      "description": "A reçu le Prix d'Excellence de l'université pour la création d'un contenu numérique exceptionnel et la direction de campagnes médiatiques innovantes qui ont considérablement augmenté l'engagement des étudiants."
+    },
+    "achievement2": {
+      "title": "Leader de la Conférence Médiatique Universitaire",
+      "description": "A dirigé l'équipe d'organisation de la Conférence Médiatique Annuelle de l'Université, réunissant des experts de diverses institutions et créant des opportunités de réseautage précieuses pour les étudiants."
+    },
+    "achievement3": {
+      "title": "Fondateur du Programme de Mentorat",
+      "description": "A fondé un programme de mentorat qui a réussi à jumeler plus de 50 étudiants débutants avec des professionnels du secteur, menant à des opportunités de stage et d'avancement professionnel."
+    },
+    "achievement4": {
+      "title": "Initiative de Transformation Numérique",
+      "description": "A dirigé une initiative de transformation numérique à l'échelle du club qui a modernisé les flux de travail et introduit des outils de pointe, améliorant l'efficacité et la qualité des résultats de 40%."
+    }
+  },
+  "extendedBio": [
+    "Considéré comme un leader inspirant dans le domaine des médias, avec une vaste expérience dans la direction d'équipes et l'organisation d'événements médiatiques. Cherche toujours à développer les compétences des étudiants et à les encourager à être créatifs et innovants dans le domaine des médias.",
+    "Se distingue par sa passion et son engagement dans le domaine des médias. A travaillé sur de nombreux projets réussis qui ont eu un impact positif sur la communauté universitaire et au-delà. Croit fermement en l'importance des médias pour sensibiliser et éduquer la société.",
+    "Un expert exceptionnel en photographie et production médiatique. A dirigé plusieurs équipes de travail et supervisé la production de plusieurs documentaires et reportages médiatiques qui ont connu un grand succès.",
+    "Possède une vision créative unique dans les médias numériques. A contribué au développement de stratégies médiatiques innovantes et a réussi à établir des partenariats importants avec des institutions médiatiques de premier plan au niveau local et international."
+  ],
+  "projects": {
+    "project1": {
+      "title": "Campagne de Sensibilisation Communautaire",
+      "description": "A dirigé ce projet visant à accroître la sensibilisation aux problèmes sociaux importants grâce à des campagnes médiatiques intégrées. Le projet comprenait la production de clips vidéo éducatifs, la conception d'affiches et l'organisation d'événements en direct, obtenant des résultats positifs notables dans le changement de comportement de la communauté cible."
+    },
+    "project2": {
+      "title": "Couverture des Événements Universitaires",
+      "description": "A supervisé la couverture d'une série d'événements universitaires importants, y compris des conférences scientifiques et des compétitions étudiantes. A réussi à fournir une couverture médiatique complète et distinguée, ce qui a contribué à augmenter l'intérêt et la participation à ces événements."
+    }
+  },
+  "notFound": {
+    "title": "Leader Non Trouvé",
+    "description": "Désolé, le leader n'existe pas",
+    "message": "Nous n'avons pas pu trouver le leader que vous recherchez. Veuillez retourner à la page d'équipe et réessayer."
+  }
+}

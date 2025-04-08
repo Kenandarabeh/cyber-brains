@@ -1,0 +1,16 @@
+{
+  "links": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "activities": "Activités",
+    "team": "Équipe",
+    "join": "Rejoindre",
+    "contact": "Contact"
+  },
+  "title": "Club Cyber Brains",
+  "copyright": "© {year} Club Cyber Brains - Tous Droits Réservés",
+  "social": "Suivez-nous",
+  "developed": "Développé par",
+  "developer": "Kenanda Abdelouahad Rabah",
+  "subtitle": "Club d'Innovation en Informatique et IA"
+}

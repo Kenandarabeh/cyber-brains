@@ -1,0 +1,131 @@
+{
+  "title": "Profil du Superviseur",
+  "description": "Apprenez à mieux connaître notre superviseur",
+  "about": "À propos du Superviseur",
+  "contact": "Coordonnées",
+  "email": "Email",
+  "phone": "Téléphone",
+  "departmentLabel": "Département",
+  "expertise": "Domaines d'expertise",
+  "qualificationsTitle": "Qualifications Académiques",
+  "experienceTitle": "Expérience Professionnelle",
+  "coursesTitle": "Cours Enseignés",
+  "backToTeam": "Retour à la page de l'équipe",
+  "qualifications": [
+    [
+      "Licence en Journalisme et Médias",
+      "Master en Médias Numériques",
+      "Cours avancés en Rédaction Journalistique"
+    ],
+    [
+      "Doctorat en Études Islamiques",
+      "Master en Jurisprudence Islamique",
+      "Licence en Charia",
+      "Certifications Internationales en Administration Académique"
+    ],
+    [
+      "Doctorat en Droit",
+      "Master en Droit International",
+      "Licence en Études Juridiques",
+      "Autorisation d'exercer le Droit"
+    ]
+  ],
+  "experience": [
+    [
+      {
+        "position": "Journaliste Senior",
+        "place": "Journal Al-Anwar",
+        "period": "2015 - Présent",
+        "description": "Couverture des actualités locales et internationales, rédaction d'articles analytiques et supervision de l'équipe éditoriale"
+      },
+      {
+        "position": "Rédacteur",
+        "place": "Chaîne d'information algérienne",
+        "period": "2010 - 2015",
+        "description": "Édition de bulletins d'information, préparation de reportages de terrain et conduite d'entretiens"
+      },
+      {
+        "position": "Reporter",
+        "place": "Agence de presse algérienne",
+        "period": "2005 - 2010",
+        "description": "Couverture d'événements locaux, rédaction de rapports d'actualités"
+      }
+    ],
+    [
+      {
+        "position": "Directeur du Centre Universitaire de Naama",
+        "place": "Centre Universitaire de Naama",
+        "period": "2018 - Présent",
+        "description": "Supervision de l'administration du centre universitaire, développement de programmes académiques et amélioration de la qualité académique"
+      },
+      {
+        "position": "Doyen de la Faculté de Charia",
+        "place": "Centre Universitaire de Naama",
+        "period": "2012 - 2018",
+        "description": "Gestion des affaires facultaires, développement des programmes d'études et supervision de la recherche scientifique"
+      },
+      {
+        "position": "Professeur d'Études Islamiques",
+        "place": "Centre Universitaire de Naama",
+        "period": "2005 - 2012",
+        "description": "Enseignement des cours de jurisprudence islamique, supervision des thèses de master et de doctorat"
+      }
+    ],
+    [
+      {
+        "position": "Maître de Conférences",
+        "place": "Faculté de Droit - Université d'Alger",
+        "period": "2014 - Présent",
+        "description": "Enseignement des cours de droit international et constitutionnel, supervision de la recherche scientifique"
+      },
+      {
+        "position": "Avocat Certifié",
+        "place": "Ordre des Avocats",
+        "period": "2010 - 2014",
+        "description": "Représentation des clients dans des affaires de droit public et privé, fourniture de consultations juridiques"
+      },
+      {
+        "position": "Chercheur Juridique",
+        "place": "Centre d'Études Juridiques et Judiciaires",
+        "period": "2008 - 2010",
+        "description": "Conduite de recherches en droit comparé, participation à l'élaboration de propositions législatives"
+      }
+    ]
+  ],
+  "courses": [
+    [
+      "Écriture Journalistique Avancée",
+      "Techniques de Rédaction Médiatique",
+      "Médias Numériques",
+      "Éthique du Journalisme",
+      "Couverture des Actualités de Crise",
+      "Journalisme de Données"
+    ],
+    [
+      "Principes de Jurisprudence Islamique",
+      "Objectifs de la Charia",
+      "Transactions Financières Contemporaines",
+      "Règles Jurisprudentielles",
+      "Pensée Islamique",
+      "Administration Académique"
+    ],
+    [
+      "Droit Constitutionnel",
+      "Droit International Public",
+      "Droits de l'Homme",
+      "Méthodologie Juridique",
+      "Droit des Contrats",
+      "Procédures Judiciaires"
+    ]
+  ],
+  "extendedBio": [
+    "Mohammed Makhlouf est un journaliste distingué avec une vaste expérience dans les médias numériques et le journalisme traditionnel. Il a acquis une riche expérience à travers son travail dans diverses institutions médiatiques et s'est distingué par sa couverture journalistique de nombreux événements locaux et internationaux. Il contribue activement à la formation de jeunes journalistes et au transfert de son expérience pratique, en soulignant l'importance du respect de l'éthique professionnelle et de l'exactitude dans la transmission de l'information. Il a animé de nombreux ateliers en rédaction journalistique et médias numériques.",
+    "Le Professeur Safi Habib est une figure académique éminente dans le domaine des études islamiques et occupe actuellement le poste de Directeur du Centre Universitaire de Naama. Il a apporté des contributions notables au développement des programmes éducatifs et à l'enrichissement de la recherche scientifique dans le domaine des études islamiques. Il a participé à de nombreuses conférences scientifiques locales et internationales et possède de précieuses publications dans son domaine de spécialisation. Il adopte une approche modérée dans le traitement des questions de la charia, en mettant l'accent sur la connexion des sciences islamiques avec les développements contemporains.",
+    "Dr. Khalwati Mosaab est un expert juridique distingué qui allie expertise académique et expérience pratique dans le domaine du droit. Il est titulaire d'un doctorat en droit et a publié des recherches dans des revues scientifiques à comité de lecture. Il a participé à la rédaction et au développement de nombreuses législations juridiques et a travaillé dans le domaine de la pratique du droit pendant plusieurs années avant de se consacrer au travail académique. Il s'intéresse particulièrement aux questions des droits de l'homme et du droit constitutionnel, et cherche à développer les compétences des étudiants en matière de recherche juridique."
+  ],
+  "notFound": {
+    "title": "Superviseur Non Trouvé",
+    "description": "Désolé, le superviseur n'existe pas",
+    "message": "Nous n'avons pas pu trouver le superviseur que vous recherchez. Veuillez revenir à la page de l'équipe et réessayer."
+  }
+}

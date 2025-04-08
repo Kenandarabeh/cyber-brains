@@ -1,0 +1,16 @@
+{
+  "ai": {
+    "name": "Innovations en IA",
+    "description": "Cadres et outils d'apprentissage automatique avancés pour les projets de recherche universitaires en intelligence artificielle",
+    "tag1": "IA",
+    "tag2": "Apprentissage automatique",
+    "tag3": "Python"
+  },
+  "security": {
+    "name": "Boîte à outils de cybersécurité",
+    "description": "Outils et ressources de sécurité essentiels pour les chercheurs universitaires et les professionnels de la cybersécurité",
+    "tag1": "Sécurité",
+    "tag2": "Java",
+    "tag3": "Réseaux"
+  }
+}

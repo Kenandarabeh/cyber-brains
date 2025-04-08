@@ -1,0 +1,48 @@
+{
+  "title": "Activités Créatives",
+  "subtitle": "Explorez notre collection diversifiée de projets et d'activités médiatiques",
+  "description": "Une collection de moments mémorables des différents événements et activités de notre club",
+  "eventsCount": "Événements",
+  "membersCount": "Membres",
+  "academic": "Année Académique",
+  "viewAll": "Voir toutes les photos",
+  "viewFullSize": "Voir en taille réelle",
+  "image": "Image",
+  "capturedOn": "Capturée le",
+  "clubEvent": "Événement du Club",
+  "showDetails": "Afficher les détails",
+  "codeComment": "Explorez nos moments mémorables",
+  "imageNotFound": "Image non trouvée",
+  "activities": [
+    {
+      "title": "Exposition de Photographie",
+      "subtitle": "La vie universitaire à travers l'objectif",
+      "category": "Photographie"
+    },
+    {
+      "title": "Production Vidéo",
+      "subtitle": "Narration visuelle",
+      "category": "Production"
+    },
+    {
+      "title": "Couverture d'Actualités",
+      "subtitle": "Journalisme universitaire",
+      "category": "Journalisme"
+    },
+    {
+      "title": "Diffusion en Direct",
+      "subtitle": "Événements en temps réel",
+      "category": "Diffusion"
+    },
+    {
+      "title": "Radio",
+      "subtitle": "Streaming audio et programmes radio",
+      "category": "Radio"
+    },
+    {
+      "title": "Médias Sociaux",
+      "subtitle": "Présence numérique",
+      "category": "Numérique"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Nos Engagements",
+  "subtitle": "Ce qui nous motive au Rising Media Club, Centre Universitaire de Naama",
+  "description": "En tant qu'organisation médiatique dirigée par des étudiants, nous nous engageons pour l'excellence, l'innovation et le service à notre communauté universitaire par la production médiatique et la narration.",
+  "items": [
+    {
+      "title": "Développement des Étudiants",
+      "description": "Nous nous engageons à offrir aux étudiants des opportunités de développer des compétences médiatiques pratiques grâce à l'expérience directe et au mentorat.",
+      "icon": "graduation"
+    },
+    {
+      "title": "Représentation Universitaire",
+      "description": "Nous nous efforçons de représenter le Centre Universitaire de Naama avec professionnalisme et créativité dans toutes nos productions médiatiques.",
+      "icon": "building"
+    },
+    {
+      "title": "Engagement Communautaire",
+      "description": "Nous nous consacrons à utiliser les médias comme outil pour interagir avec la communauté élargie et mettre en lumière des questions importantes.",
+      "icon": "world"
+    },
+    {
+      "title": "Éthique des Médias",
+      "description": "Nous nous engageons à respecter les normes les plus élevées d'intégrité journalistique et de pratiques médiatiques éthiques dans tout notre travail.",
+      "icon": "shield"
+    },
+    {
+      "title": "Innovation",
+      "description": "Nous explorons continuellement de nouvelles technologies médiatiques et techniques de narration pour maintenir notre contenu frais et engageant.",
+      "icon": "bulb"
+    },
+    {
+      "title": "Inclusivité",
+      "description": "Nous accueillons diverses perspectives et veillons à ce que toutes les voix au sein de notre communauté universitaire soient représentées dans nos médias.",
+      "icon": "users"
+    }
+  ],
+  "cta": "Rejoignez notre engagement pour l'excellence médiatique"
+}

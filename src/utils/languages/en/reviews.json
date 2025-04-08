@@ -1,0 +1,49 @@
+{
+  "title": "What Our Members Are Saying",
+  "subtitle": "Member Reviews",
+  "description": "Read honest reviews from students who have joined our community and transformed their technical skills",
+  "errorTitle": "Something went wrong",
+  "errorMessage": "Unable to load reviews. Please try again later.",
+  "retry": "Retry",
+  "approved": "Approved",
+  "commented": "Commented",
+  "changes": "Changes requested",
+  "likes": "{{count}} likes",
+  "comments": "{{count}} comments",
+  "commits": "{{count}} commits",
+  "contributors": "Contributors",
+  "viewAll": "View all reviews",
+  "openIssue": "Open issue",
+  "merged": "Merged",
+  "repository": "reviews",
+  "reviewsCount": "{{count}} reviews",
+  "activity": "Recent activity",
+  "openedIssue": "opened this issue just now",
+  "autoRetry": "Auto-retry in 15s",
+  "reportBug": "Report Bug",
+  "reportBugTooltip": "Report this issue",
+  "connectionError": "Connection error",
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Ahmed Khalid",
+      "role": "Senior Member",
+      "rating": 5,
+      "text": "The club is my favorite place for learning and creativity. I learned many advanced technical skills and developed my knowledge of modern programming technologies thanks to the professional workshops."
+    },
+    {
+      "id": 2,
+      "name": "Sarah Abdullah",
+      "role": "UI Designer",
+      "rating": 4.5,
+      "text": "I benefited greatly from the specialized training programs and was able to build my skills in user interface design. I thank the mentors for their continuous support and help in developing my projects."
+    },
+    {
+      "id": 3,
+      "name": "Mohammed Al-Amri",
+      "role": "App Developer",
+      "rating": 5,
+      "text": "Joining the club was a turning point in my professional career. I was able to get an internship opportunity at a major tech company thanks to the skills I acquired from the club."
+    }
+  ]
+}

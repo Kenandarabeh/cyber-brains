@@ -1,0 +1,87 @@
+{
+  "title": "Leader Profile",
+  "description": "Get to know our club leader better",
+  "about": "About the Leader",
+  "featuredProjects": "Featured Projects",
+  "contact": "Contact Information",
+  "email": "Email",
+  "phone": "Phone",
+  "socialConnect": "Connect with me",
+  "viewProject": "View Project",
+  "backToTeam": "Back to Team Page",
+  "technologies": "Technical Skills & Frameworks",
+  "technologiesData": {
+    "title": "Technical Skills & Frameworks",
+    "frameworks": [
+      { "name": "React.js", "icon": "react" },
+      { "name": "Node.js", "icon": "nodejs" },
+      { "name": "JavaScript", "icon": "javascript" },
+      { "name": "Python", "icon": "python" },
+      { "name": "PHP", "icon": "php" },
+      { "name": "Figma", "icon": "figma" }
+    ]
+  },
+  "professionalSkills": "Professional Skills",
+  "certificationsTitle": "Professional Certifications",
+  "certifications": {
+    "cert1": {
+      "name": "Certified Digital Media Manager",
+      "issuer": "International Association for Media Technologies",
+      "year": "2023"
+    },
+    "cert2": {
+      "name": "Professional Leadership Development",
+      "issuer": "National Leadership Institute",
+      "year": "2022"
+    },
+    "cert3": {
+      "name": "Advanced Project Management",
+      "issuer": "Project Management Institute",
+      "year": "2021"
+    }
+  },
+  "extendedBio": [
+    "Considered an inspirational leader in the media field, with extensive experience in team leadership and organizing media events. Always seeks to develop students' skills and encourage them to be creative and innovative in the media field.",
+    "Distinguished by passion and commitment in the media field. Has worked on many successful projects that have positively impacted the university community and beyond. Firmly believes in the importance of media in spreading awareness and educating society.",
+    "An outstanding expert in photography and media production. Has led multiple work teams and supervised the production of several documentaries and media reports that have achieved great success.",
+    "Possesses a unique creative vision in digital media. Has contributed to the development of innovative media strategies and successfully built important partnerships with leading media institutions locally and internationally."
+  ],
+  "tabs": {
+    "about": "About",
+    "projects": "Projects",
+    "achievements": "Skills & Achievements"
+  },
+  "achievements": {
+    "achievement1": {
+      "title": "Excellence Award in Digital Content",
+      "description": "Received the university's Excellence Award for creating exceptional digital content and leading innovative media campaigns that significantly increased student engagement."
+    },
+    "achievement2": {
+      "title": "University Media Conference Leader",
+      "description": "Led the organization team for the Annual University Media Conference, bringing together experts from various institutions and creating valuable networking opportunities for students."
+    },
+    "achievement3": {
+      "title": "Mentorship Program Founder",
+      "description": "Founded a mentorship program that successfully paired over 50 junior students with industry professionals, leading to internship opportunities and career advancement."
+    },
+    "achievement4": {
+      "title": "Digital Transformation Initiative",
+      "description": "Led a club-wide digital transformation initiative that modernized workflows and introduced cutting-edge tools, improving efficiency and quality of outputs by 40%."
+    }
+  },
+  "projects": {
+    "project1": {
+      "title": "Community Awareness Campaign",
+      "description": "Led this project aimed at increasing awareness of important social issues through integrated media campaigns. The project included the production of educational video clips, poster design, and organizing live events, achieving notable positive results in changing the behavior of the target community."
+    },
+    "project2": {
+      "title": "University Events Coverage",
+      "description": "Supervised the coverage of a series of important university events, including scientific conferences and student competitions. Successfully provided comprehensive and distinguished media coverage, which contributed to increasing interest and participation in these events."
+    }
+  },
+  "notFound": {
+    "title": "Leader Not Found",
+    "description": "Sorry, the leader does not exist",
+    "message": "We couldn't find the leader you're looking for. Please return to the team page and try again."
+  }
+}

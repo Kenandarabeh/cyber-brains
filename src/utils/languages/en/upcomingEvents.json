@@ -1,0 +1,17 @@
+{
+  "title": "Upcoming Events",
+  "subtitle": "Register for our upcoming workshops and activities",
+  "status": {
+    "open": "Open",
+    "almostFull": "Almost Full",
+    "full": "Full"
+  },
+  "register": "Register Now",
+  "capacity": "Registered",
+  "eventInfo": {
+    "date": "Date",
+    "time": "Time",
+    "location": "Location",
+    "capacity": "Capacity"
+  }
+}

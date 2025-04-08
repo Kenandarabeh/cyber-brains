@@ -1,0 +1,32 @@
+{
+  "title": "Our Core Services",
+  "subtitle": "Discover our comprehensive media services offered by Rising Media Club at the University Center of Naama",
+  "csTitle": "Computer Science Club Services",
+  "csSubtitle": "Discover our diverse computer science and programming activities offered by the Cyber Brains Club at the University Center",
+  "items": [
+    {
+      "title": "Photography",
+      "description": "Professional photography services for university events, student portraits, and campus activities"
+    },
+    {
+      "title": "Video Production",
+      "description": "Creating compelling video content and documentaries showcasing student life and university achievements"
+    },
+    {
+      "title": "Journalism",
+      "description": "Covering campus events and writing engaging stories about the University Center of Naama community"
+    },
+    {
+      "title": "Broadcasting",
+      "description": "Live streaming and event coverage for university lectures, conferences, and special occasions"
+    },
+    {
+      "title": "Digital Media",
+      "description": "Web content and social media management to promote university activities and student achievements"
+    },
+    {
+      "title": "Community",
+      "description": "Join a creative team of media enthusiasts dedicated to building the university's media presence"
+    }
+  ]
+}

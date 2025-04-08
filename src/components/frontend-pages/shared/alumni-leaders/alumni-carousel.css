@@ -1,0 +1,127 @@
+/* Restructuration complète des styles pour le carousel */
+
+/* Container principal du carousel */
+.alumni-carousel {
+  position: relative;
+  margin: 0 auto;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+/* Important: S'assurer que le slider est positionné statiquement pour que les flèches fonctionnent correctement */
+.alumni-carousel.slick-slider {
+  position: static !important;
+}
+
+/* Styles de base pour toutes les images */
+.alumni-carousel img.leader-image {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: top center !important;
+}
+
+/* Styles pour la liste de slides */
+.alumni-carousel .slick-list {
+  margin: 0 -10px;
+  overflow: hidden !important;
+}
+
+/* Styles pour la track qui contient les slides */
+.alumni-carousel .slick-track {
+  display: flex !important;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: stretch !important;
+}
+
+/* Styles pour chaque slide individuel */
+.alumni-carousel .slick-slide {
+  height: inherit !important;
+  float: left; /* Important pour un comportement cohérent */
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+/* Styles pour le contenu de chaque slide */
+.alumni-carousel .slick-slide > div {
+  height: 100%;
+  padding: 8px;
+}
+
+/* Support RTL */
+[dir="rtl"] .alumni-carousel .slick-slide {
+  float: right;
+}
+
+/* Styles pour les flèches de navigation */
+.alumni-carousel .slick-arrow,
+.alumni-carousel .slick-prev,
+.alumni-carousel .slick-next {
+  z-index: 1000 !important;
+  opacity: 1 !important;
+  display: block !important;
+  width: 46px !important;
+  height: 46px !important;
+}
+
+.alumni-carousel .slick-arrow:before,
+.alumni-carousel .slick-prev:before,
+.alumni-carousel .slick-next:before {
+  display: none !important; /* Supprimer les styles par défaut des flèches */
+}
+
+/* Styles pour les points de navigation */
+.alumni-carousel .slick-dots {
+  bottom: -15px;
+  z-index: 10;
+  display: flex !important;
+  justify-content: center !important;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.alumni-carousel .slick-dots li {
+  margin: 0 3px;
+  width: 10px !important;
+  height: 10px !important;
+  padding: 0 !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.alumni-carousel .slick-dots li button {
+  width: 8px !important;
+  height: 8px !important;
+  padding: 0 !important;
+  border-radius: 50% !important;
+  background-color: #cccccc !important;
+  border: none !important;
+}
+
+.alumni-carousel .slick-dots li.slick-active button {
+  background-color: var(--primary-color, #1976d2) !important;
+}
+
+/* Remove the default dots styles */
+.alumni-carousel .slick-dots li button:before {
+  display: none !important;
+}
+
+/* Optimisations pour mobile */
+@media (max-width: 767px) {
+  .alumni-carousel {
+    padding-bottom: 30px;
+  }
+  
+  .alumni-carousel .slick-dots {
+    bottom: -15px;
+  }
+  
+  /* Afficher les flèches sur mobile dans certaines conditions */
+  .alumni-carousel .slick-arrow {
+    display: none !important;
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Choisissez le comité que vous souhaitez rejoindre",
+  "description": "Veuillez sélectionner le comité qui correspond à vos compétences et intérêts",
+  "committees": [
+    {
+      "value": "press",
+      "label": "Comité de Presse"
+    },
+    {
+      "value": "digital",
+      "label": "Comité des Médias Numériques"
+    },
+    {
+      "value": "relations",
+      "label": "Comité des Relations Publiques"
+    },
+    {
+      "value": "training",
+      "label": "Comité de Formation et d'Entraînement"
+    },
+    {
+      "value": "documentation",
+      "label": "Comité de Documentation d'Information"
+    },
+    {
+      "value": "resources",
+      "label": "Comité des Ressources"
+    }
+  ],
+  "placeholder": "Sélectionnez un comité",
+  "required": "Veuillez sélectionner un comité",
+  "multiple": "Vous pouvez sélectionner plusieurs comités",
+  "subtitle": "Faites partie de notre équipe exceptionnelle",
+  "steps": [
+    "Informations Personnelles",
+    "Sélection du Comité", 
+    "Expérience & Motivation"
+  ],
+  "form": {
+    "name": {
+      "label": "Nom Complet",
+      "error": "Le nom est requis"
+    },
+    "email": {
+      "label": "Email",
+      "error": "L'email est requis",
+      "invalid": "Email invalide"
+    },
+    "phone": {
+      "label": "Numéro de Téléphone",
+      "error": "Le téléphone est requis"
+    },
+    "committee": {
+      "label": "Sélectionner le Comité",
+      "error": "La sélection du comité est requise",
+      "options": [
+        {
+          "value": "press",
+          "label": "Comité de Presse"
+        },
+        {
+          "value": "digital",
+          "label": "Comité des Médias Numériques"
+        },
+        {
+          "value": "relations",
+          "label": "Comité des Relations Publiques"
+        },
+        {
+          "value": "training",
+          "label": "Comité de Formation et d'Entraînement"
+        },
+        {
+          "value": "documentation",
+          "label": "Comité de Documentation d'Information"
+        },
+        {
+          "value": "resources",
+          "label": "Comité des Ressources"
+        }]
+    },
+    "experience": {
+      "label": "Expérience Précédente",
+      "error": "L'expérience est requise"
+    },
+    "motivation": {
+      "label": "Pourquoi voulez-vous rejoindre?",
+      "error": "La motivation est requise"
+    },
+    "buttons": {
+      "next": "Suivant",
+      "back": "Retour",
+      "submit": "Soumettre"
+    },
+    "success": "Votre candidature a été soumise avec succès!",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  }
+}
