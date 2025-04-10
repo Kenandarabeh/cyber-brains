@@ -33,6 +33,7 @@ import alumniImage4 from 'src/assets/images/gallery/image_alumni4.jpg';
 import projectImage1 from 'src/assets/images/gallery/image 2.png';
 import projectImage2 from 'src/assets/images/gallery/image 2.png';
 import defaultImage from 'src/assets/images/gallery/image 2.png';
+import Character3D from 'src/components/frontend-pages/homepage/3d-character/Character3D';
 
 const LeaderDetail = () => {
   const { id } = useParams();
@@ -181,6 +182,8 @@ const LeaderDetail = () => {
   return (
     <PageContainer title={`${leader.name} - ${t('leaderDetail.title')}`} description={leader.bio}>
       <HpHeader />
+              <Character3D />
+      
       <PageBanner 
         title={leader.name}
         subtitle={leader.role}

@@ -22,6 +22,7 @@ import supervisor1Image from 'src/assets/images/gallery/image1.jpg';
 import supervisor2Image from 'src/assets/images/gallery/image2.jpg';
 import supervisor3Image from 'src/assets/images/gallery/image3.jpg';
 import defaultImage from 'src/assets/images/gallery/image 2.png';
+import Character3D from 'src/components/frontend-pages/homepage/3d-character/Character3D';
 
 const SupervisorDetail = () => {
   const { id } = useParams();
@@ -152,6 +153,7 @@ const SupervisorDetail = () => {
         subtitle={supervisor.role}
         path={[t('team.path.team'), t('team.sections.supervisors'), supervisor.name]}
       />
+        <Character3D />
 
       {/* Supervisor detail section */}
       <SupervisorDetailSection supervisor={supervisor} />

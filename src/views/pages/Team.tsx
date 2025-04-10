@@ -10,6 +10,7 @@ import CommitteeMembers from '../../components/frontend-pages/shared/committee-m
 import Supervisors from '../../components/frontend-pages/shared/supervisors';
 import { useTranslation } from 'react-i18next';
 import React from 'react';
+import Character3D from 'src/components/frontend-pages/homepage/3d-character/Character3D';
 
 const Team = () => {
   const { t } = useTranslation();
@@ -30,6 +31,8 @@ const Team = () => {
   return (
     <PageContainer title={t('team.title')} description={t('team.subtitle')}>
       <HpHeader />
+              <Character3D />
+      
       <PageBanner
         title={t('team.title')}
         subtitle={t('team.subtitle')}

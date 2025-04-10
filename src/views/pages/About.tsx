@@ -10,12 +10,15 @@ import WhoWeAre from 'src/components/frontend-pages/about/who-we-are/WhoWeAre';
 import OurMission from 'src/components/frontend-pages/about/our-mission/OurMission';
 import Committees from 'src/components/frontend-pages/about/committees';
 import { useTranslation } from 'react-i18next';
+import Character3D from 'src/components/frontend-pages/homepage/3d-character/Character3D';
 
 const About = () => {
   const { t } = useTranslation();
   
   return (
     <PageContainer title={t('about.title')} description={t('about.subtitle')}>
+              <Character3D />
+      
       <HpHeader />
       <PageBanner
         title={t('about.title')}

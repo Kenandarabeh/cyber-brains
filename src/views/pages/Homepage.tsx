@@ -9,6 +9,7 @@ import ScrollToTop from 'src/components/frontend-pages/shared/scroll-to-top';
 import ActivitiesShowcase from 'src/components/frontend-pages/homepage/activities-showcase/ActivitiesShowcase';
 import Sponsors from 'src/components/frontend-pages/shared/sponsors';
 import DiscordInvite from 'src/components/frontend-pages/homepage/discord-invite/DiscordInvite';
+import Character3D from 'src/components/frontend-pages/homepage/3d-character/Character3D';
 
 const HomePage = () => {
   const { t } = useTranslation();
@@ -18,6 +19,8 @@ const HomePage = () => {
     <>
       <HpHeader />
       <PageContainer title={t('home.title')} description={t('home.description')}>
+        {/* 3D Character added here */}
+        <Character3D />
         <Banner />
         <ActivitiesShowcase />
         <DiscordInvite />

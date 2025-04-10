@@ -8,6 +8,7 @@ import ScrollToTop from '../../components/frontend-pages/shared/scroll-to-top';
 import PageBanner from 'src/components/frontend-pages/shared/page-banner/PageBanner';
 import CommitteeForm from '../../components/frontend-pages/shared/committee-form';
 import { useTranslation } from 'react-i18next';
+import Character3D from 'src/components/frontend-pages/homepage/3d-character/Character3D';
 
 const Join = () => {
     const { t } = useTranslation();
@@ -15,6 +16,8 @@ const Join = () => {
     return (
         <PageContainer title={t('join.title')} description={t('join.subtitle')}>
             <HpHeader />
+            <Character3D />
+
             <PageBanner
                 title={t('join.title')}
                 subtitle={t('join.subtitle')}
